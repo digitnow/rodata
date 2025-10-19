@@ -12,7 +12,7 @@ Veilederen er designet for å gi en god innsikt for roere, trenere og andre inte
 - Sikre utvikling av passende individuelle fysiske egenskaper for å kunne utføre trygge (forhindre skader) og roteknisk korrekte robevegelser (**atletiske ferdigheter**) i løpet av hele rokarrieren og videre i livet.
 - Oppmyntre til langtidstenking for utvikling og ikke et fokus på kortsiktige seiere (**langsiktig målsetting og planlegging**)
 - Forsikre seg om at roere trener på et passende nivå og etter eget evne; ta hensyn til både individuell utviklingsalder og kronologisk alder (**nivåbasert utvikling, utviklingstrapp**)
-- Se på romiljøet som en helhet og se på hvilken rolle kan trenere (både frivillige, semi-profesjonelle og profesjonelle), familie og i visse tilfeller et støtteapparat spille i livet til roeren under utvikling (**optimalt samarbeid mellom alle aktørene**)
+- Se på romiljøet som en helhet og se på hvilken rolle kan trenere (både frivillige, semi-profesjonelle og profesjonelle), [familie](https://idrettsforbundet.sharepoint.com/sites/NRdokumenter/Delte%20dokumenter/Forms/AllItems.aspx?id=%2Fsites%2FNRdokumenter%2FDelte%20dokumenter%2FNR%2EWeb%2FToppidrett%2FFaglitteratur%2FOLT%20Foreldreguide%2Epdf&parent=%2Fsites%2FNRdokumenter%2FDelte%20dokumenter%2FNR%2EWeb%2FToppidrett%2FFaglitteratur&p=true&ga=1) og i visse tilfeller et støtteapparat spille i livet til en roer under utvikling (**optimalt samarbeid mellom alle aktørene**)
 
 ### Nivåbasert utvikling (utviklingstrapp)
 I norsk roing har det vært brukt fire hovedtrinn i trappene (se ["Utvikling av fysiske kvaliteter i roing, 2. utgave"](https://www.example.com](https://idrettsforbundet.sharepoint.com/:w:/s/NRdokumenter/EbsKMgEomLZNiM1BanyoVQwB-lhipFPBb6_j6u6cT6HDnQ?rtime=ZMD-EgQP3kg))):

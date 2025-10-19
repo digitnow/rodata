@@ -24,42 +24,67 @@ I norsk roing har det vært brukt fire hovedtrinn i trappene (se ["Utvikling av 
 I denne veilederen blir det brukt en mer generell nivåklassifikasjon med 5 nivåer (inspirert av ["Rower Development Guide", 2017 fra British Rowing"](https://www.britishrowing.org/knowledge/rower-development/rower-development-guide/)). 
 <table>
   <tr>
-    <td colspan="3" class="center">Utviklingssti</td>
+    <td colspan="3" class="center"><b>Utviklingssti</b></td>
     <td colspan="5">Anbefaling for rospesifikk aktivitet</td>
   </tr>
   <tr>
     <td colspan="2">Utviklingsnivå</td>
     <td>Modenhet/alder</td>
-    <td>Antall økter^ per uke</td>
+    <td>Antall økter<sup>1</sup> per uke</td>
+    <td>Eksempel på økter (kan variere i perioder)</td>
+    <td>Lengde av økter</td>
+    <td>Treningstimer per uke</td>
+    <td>Kommentar</td>
+  </tr>
+  <tr>
+    <td><pre>Treningsnivå 4</pre></td>
+    <td>Høyt presterende klubbroere og kandidater til representasjon</td>
+    <td>17+/yngre hvis høy modenhet</td>
+    <td>12</td>
+    <td>3-4 roing på vann eller roergo<br> 2-3 styrke<br> 4-5 sirkel eller annet</td>
+    <td>På vann <90 min.<br> På land <120 min. (men avhenger av intensitetssone)</td>
+    <td>10-15</td>
+    <td>Fokus på selvstendighet, kosthold og adferd<sup>2</sup>.<br> Regattaer: alle nasjonale regattaer, Nordisk, Baltic Cup<sup>3</sup>, Coupe de Jounesse<sup>4</sup><br> Aktiviter: treningssamlinger med klubb og/eller forbund.</td>
+  </tr>
+  <tr>
+    <td><pre>Treningsnivå 3</pre></td>
+    <td>Høyt presterende klubbroere og kandidater til representasjon</td>
+    <td>15+/yngre hvis høy modenhet</td>
+    <td>12</td>
+    <td>3-4 roing på vann eller roergo<br> 2-3 styrke<br> 4-5 sirkel eller annet</td>
+    <td>På vann <90 min.<br> På land <120 min. (men avhenger av intensitetssone)</td>
+    <td>10-15</td>
+    <td>Fokus også på selvstendighet, kosthold og adferd<sup>2</sup>.</td>
+  </tr>
+  <tr>
+    <td><pre>Treningsnivå 2</pre></td>
+    <td>Høyt presterende klubbroere og kandidater til representasjon</td>
+    <td>13+/yngre hvis høy modenhet</td>
+    <td>8</td>
+    <td>3-4 roing på vann eller roergo<br> 2-3 styrke<br> 4-5 sirkel eller annet</td>
+    <td>På vann <90 min.<br> På land <120 min. (men avhenger av intensitetssone)</td>
+    <td>10-15</td>
+    <td>Fokus også på selvstendighet, kosthold og adferd<sup>2</sup>.</td>
+  </tr>
+  <tr>
+    <td><pre>Treningsnivå 1</pre></td>
+    <td>Høyt presterende klubbroere og kandidater til representasjon</td>
+    <td>17+/yngre hvis høy modenhet</td>
+    <td>12</td>
+    <td>3-4 roing på vann eller roergo<br> 2-3 styrke<br> 4-5 sirkel eller annet</td>
+    <td>På vann <90 min.<br> På land <120 min. (men avhenger av intensitetssone)</td>
+    <td>10-15</td>
+    <td>Fokus også på selvstendighet, kosthold og adferd<sup>2</sup>.</td>
   </tr>
 </table>
 
-<style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
+1 *antall økter for rospesifikk aktivitet (C2, RP3, annen romaskin, roing på vann i forskjellige typer båter); for yngre roere er det viktig med varierte aktivitetsformer, som løping, ski, sykling (ute og inne), svømming, ballspill osv.*
 
-        th,
-        td {
-            padding: 10px;
-            border: 1px solid #ddd;
-        }
+2 *relativt høyt nivå av kompetanse, bra selvtillitt, god til å kommunisere i felleskapet, har sterk karakter/indre driv, og er selvgående/kreativ.*
 
-        .left {
-            text-align: left;
-        }
+3 [Baltic Cup](https://sarpsborg-roklubb.no/open-baltic-cup-regulations/)
 
-        .center {
-            text-align: center;
-        }
-
-        .right {
-            text-align: right;
-        }
-    </style>
-
-^ *antall økter for rospesifikk aktivitet (C2, RP3, annen romaskin, roing på vann i forskjellige typer båter); for yngre roere er det viktig med varierte aktivitetsformer, som løping, ski, sykling (ute og inne), svømming, ballspill osv.*
+4 [Coupe de Jounesse](https://www.couperowing.org/)
 
 ## Spørsmål og Svar
 | Spørsmål | Svar |

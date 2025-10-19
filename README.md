@@ -67,7 +67,7 @@ I denne veilederen blir det brukt en mer generell nivåklassifikasjon med 5 niv�
     <td>Fokus også på selvstendighet, kosthold og adferd<sup>2</sup>.</td>
   </tr>
   <tr>
-    <td><pre><a href="https://github.com/digitnow/rodata/blob/main/TRENINGSNIVA-1.md)">Treningsnivå 1</a></pre></td>
+    <td><pre><a href="https://github.com/digitnow/rodata/blob/main/TRENINGSNIVA-1.md">Treningsnivå 1</a></pre></td>
     <td>Høyt presterende klubbroere og kandidater til representasjon</td>
     <td>17+/yngre hvis høy modenhet</td>
     <td>12</td>

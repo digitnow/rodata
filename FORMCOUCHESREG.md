@@ -20,5 +20,10 @@
 - "Code of Conduct"
 - Skal ikke diskreditere forbundet og landslag (bl. a. ikke opptre uansvarlig i sosiale medier ...)
 - Ikke knytte forbundet til noen sponsorer uten å ha inngåt skriftlig avtale med forbundet
+- "forbundets rettningslinjer for uttak"
+- "U19 programmets klageprosedurer"
+- "antidoping rettningslinjer"
+- alle uttakt må være trygt for utøvere; all informasjon om potensiell fare for utøverens helse må formidles til uttaksarrangører
+- en oppsummerende tekst for hva treneren har forpliktet seg for og hvilket ansvar trenere har påtatt seg
 
 

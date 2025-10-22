@@ -2,17 +2,16 @@
 Utviklingsveileder for roing
 
 ## Introduksjon
-Denne veilederens hovedmålet er å gi veiledning om passende trening for utviklingen av roere. Formålet er at dette vil hjelpe roere å skaffe seg erfaring fra og oppleve glede med sin idrett, samt ha en passende progresjon gjennom definerte utviklingsnivåer. 
+Denne veilederens hovedmålet er å gi veiledning om trening for utviklingen av roere fra de begynner med roing til de er modne for å konkurrere på det høyeste nivå i sin aldersgruppe. Formålet med veilederen er å hjelpe roere å skaffe seg erfaring fra og oppleve glede med sin idrett, samt ha en passende progresjon gjennom fire utviklingstrinn. Roeren skal klare spesifiserte oppgaver i sin vei gjennom utviklingstrinn ved å lære rotekniske ferdigheter, utvikle rospesifikk fysisk kapasitet og bli en etablert medlem av rosporten. 
 
-Fokuset er på å stimulere til variasjon i treningen og utvikling av hele mennesket. 
-
-Veilederen er designet for å gi en god innsikt for roere, trenere og andre interessenter i hvordan et individ kan starte med roing (inngangspunkter) og hvordan man kan maksimalisere tiden, gleden og prestajon i rosporten. I veilederen blir det også tatt opp viktige temaer eller problemer relatert til langtidsutvikling av alle roere og gitt råd og anbefalinger for passende *treningsprogresjon og programmer* for de som ønsker å bli toppidretts-/eliteutøvere. Temaer, suksessfaktorer og ledelse i forhold til overgang melom utviklingsnivåer er også inkludert i veilederen.
+Veilederen skal også gi en god innsikt for roere, trenere og andre interessenter i hvordan et individ kan starte med roing (inngangspunkter) og hvordan man kan maksimalisere tiden, gleden og prestajonen i rosporten. I veilederen blir det også tatt opp viktige temaer og problemstillinger relatert til langsiktig utvikling av alle roere og gitt råd og anbefalinger for passende *treningsprogresjon og programmer* for de som ønsker å bli toppidretts-/eliteutøvere. Temaer, suksessfaktorer og ledelse i forhold til overgang melom utviklingstrinn er også inkludert i veilederen.
 
 ## Delmål
-- Sikre utvikling av passende individuelle fysiske egenskaper for å kunne utføre trygge (forhindre skader) og roteknisk korrekte robevegelser (**atletiske ferdigheter**) i løpet av hele rokarrieren og videre i livet.
-- Oppmyntre til langtidstenking for utvikling og ikke et fokus på kortsiktige seiere (**langsiktig målsetting og planlegging**)
-- Forsikre seg om at roere trener på et passende nivå og etter eget evne; ta hensyn til både individuell utviklingsalder og kronologisk alder (**nivåbasert utvikling, utviklingstrapp**)
-- Se på romiljøet som en helhet og se på hvilken rolle kan trenere (både frivillige, semi-profesjonelle og profesjonelle), [familie](https://idrettsforbundet.sharepoint.com/sites/NRdokumenter/Delte%20dokumenter/Forms/AllItems.aspx?id=%2Fsites%2FNRdokumenter%2FDelte%20dokumenter%2FNR%2EWeb%2FToppidrett%2FFaglitteratur%2FOLT%20Foreldreguide%2Epdf&parent=%2Fsites%2FNRdokumenter%2FDelte%20dokumenter%2FNR%2EWeb%2FToppidrett%2FFaglitteratur&p=true&ga=1) og i visse tilfeller et støtteapparat spille i livet til en roer under utvikling (**optimalt samarbeid mellom alle aktørene**)
+- Sikre utvikling av individuelle fysiske egenskaper for å kunne utføre trygge (forhindre skader) og roteknisk korrekte robevegelser (**atletiske ferdigheter**) i løpet av hele rokarrieren og generelt i et livsløp.
+- Oppmyntre til langsiktig tenking for utvikling og ikke bare et fokus på kortsiktige seiere (**langsiktig målsetting og planlegging**).
+- Forsikre seg om at roeren trener på et passende nivå og etter eget evne.
+- Ta hensyn til både individuell utviklingsalder og kronologisk alder (**nivåbasert utvikling, utviklingstrapp**).
+- Se på romiljøet som en helhet og se på hvilken rolle kan trenere (både frivillige, semi-profesjonelle og profesjonelle), [familie](https://idrettsforbundet.sharepoint.com/sites/NRdokumenter/Delte%20dokumenter/Forms/AllItems.aspx?id=%2Fsites%2FNRdokumenter%2FDelte%20dokumenter%2FNR%2EWeb%2FToppidrett%2FFaglitteratur%2FOLT%20Foreldreguide%2Epdf&parent=%2Fsites%2FNRdokumenter%2FDelte%20dokumenter%2FNR%2EWeb%2FToppidrett%2FFaglitteratur&p=true&ga=1) og i visse tilfeller et støtteapparat spille i livet til en roer under utvikling (**optimalt samarbeid mellom alle aktørene**).
 
 ### Nivåbasert utvikling (utviklingstrapp)
 I norsk roing har det vært brukt fire hovedtrinn i trappene (se ["Utvikling av fysiske kvaliteter i roing, 2. utgave"](https://www.example.com](https://idrettsforbundet.sharepoint.com/:w:/s/NRdokumenter/EbsKMgEomLZNiM1BanyoVQwB-lhipFPBb6_j6u6cT6HDnQ?rtime=ZMD-EgQP3kg))):
@@ -21,7 +20,7 @@ I norsk roing har det vært brukt fire hovedtrinn i trappene (se ["Utvikling av 
 - utviklingsperioden (5. - 8. treningsår, vanlig alder 17-20 år)
 - prestasjonsperioden (9. treningsår og oppover, minimumsalder 21 år)
 
-I denne veilederen blir det brukt en mer generell nivåklassifikasjon med 5 nivåer (inspirert av ["Rower Development Guide", 2017 fra British Rowing"](https://www.britishrowing.org/knowledge/rower-development/rower-development-guide/)). 
+I denne veilederen blir det brukt en mer generell nivåklassifikasjon med 4 utviklingstrinn (inspirert av ["Rower Development Guide", 2017 fra British Rowing"](https://www.britishrowing.org/knowledge/rower-development/rower-development-guide/)). På det fjerde trinnet er roeren klar for elitesatsing, noe som innebærer en fullstendig dedikasjon til trening og konkurranser.
 <table>
   <tr>
     <td colspan="3" class="center"><b>Utviklingssti</b></td>
@@ -37,7 +36,7 @@ I denne veilederen blir det brukt en mer generell nivåklassifikasjon med 5 niv�
     <td>Kommentar</td>
   </tr>
   <tr>
-    <td><pre>Treningsnivå 4</pre></td>
+    <td><pre>Utviklingsnivå 4</pre></td>
     <td>Høyt presterende klubbroere og kandidater til representasjon</td>
     <td>17+/yngre hvis høy modenhet</td>
     <td>12</td>
@@ -47,7 +46,7 @@ I denne veilederen blir det brukt en mer generell nivåklassifikasjon med 5 niv�
     <td>Fokus på selvstendighet, kosthold og adferd<sup>2</sup>.<br> Regattaer: alle nasjonale regattaer, Nordisk, Baltic Cup<sup>3</sup>, Coupe de Jounesse<sup>4</sup><br> Aktiviter: treningssamlinger med klubb og/eller forbund.</td>
   </tr>
   <tr>
-    <td><pre>Treningsnivå 3</pre></td>
+    <td><pre>Utviklingsnivå 3</pre></td>
     <td>Høyt presterende klubbroere og kandidater til representasjon</td>
     <td>15+/yngre hvis høy modenhet</td>
     <td>12</td>
@@ -57,7 +56,7 @@ I denne veilederen blir det brukt en mer generell nivåklassifikasjon med 5 niv�
     <td>Fokus også på selvstendighet, kosthold og adferd<sup>2</sup>.</td>
   </tr>
   <tr>
-    <td><pre>Treningsnivå 2</pre></td>
+    <td><pre>Utviklingsnivå 2</pre></td>
     <td>Høyt presterende klubbroere og kandidater til representasjon</td>
     <td>13+/yngre hvis høy modenhet</td>
     <td>8</td>
@@ -67,7 +66,7 @@ I denne veilederen blir det brukt en mer generell nivåklassifikasjon med 5 niv�
     <td>Fokus også på selvstendighet, kosthold og adferd<sup>2</sup>.</td>
   </tr>
   <tr>
-    <td><pre><a href="https://github.com/digitnow/rodata/blob/main/TRENINGSNIVA-1.md">Treningsnivå 1</a></pre></td>
+    <td><pre><a href="https://github.com/digitnow/rodata/blob/main/TRENINGSNIVA-1.md">Utviklingsnivå 1</a></pre></td>
     <td>Høyt presterende klubbroere og kandidater til representasjon</td>
     <td>17+/yngre hvis høy modenhet</td>
     <td>12</td>

@@ -27,3 +27,12 @@ Formålet med dette trinnet er å utvikle en kompetent roer, som følger en års
 | ---- | -------- |
 | Regattaer |Alle nasjonale regattaerRatzeburg regatta, Holland Beker regatta, Hamburg Junior regatta |
 
+## Mer detaljert beskrivelse av UN4
+Når det gjelder roferdigheter, så skal roeren kunne 
+- å ta ut en singlesculler på vann alene
+- å sette seg i båten og så skru igjen svivelen mot vann
+- å ta båten på vann ikke kun fra brygge, men også på andre steder (eller forklare hvordan man kunne ha gjort det)
+- å ha nok fleksibilitet i bekkenet får å kunne "svinge over" fra avslutningen av taket uten å kompensere før catch
+- (10 "roll ups" uten at årebladene er i berøring med vannflaten; fra nivå 3)
+- 
+

@@ -20,7 +20,7 @@ I norsk roing har det vært brukt fire hovedtrinn i trappene (se ["Utvikling av 
 - utviklingsperioden (5. - 8. treningsår, vanlig alder 17-20 år)
 - prestasjonsperioden (9. treningsår og oppover, minimumsalder 21 år)
 
-I denne veilederen blir det brukt en mer generell nivåklassifikasjon med 4 utviklingstrinn (inspirert av ["Rower Development Guide", 2017 fra British Rowing"](https://www.britishrowing.org/knowledge/rower-development/rower-development-guide/)). På det fjerde trinnet er roeren klar for elitesatsing, noe som innebærer en fullstendig dedikasjon til trening og konkurranser.
+I denne veilederen blir det brukt en mer generell nivåklassifikasjon med 4 utviklingstrinn (inspirert av ["Rower Development Guide", 2017 fra British Rowing"](https://www.britishrowing.org/knowledge/rower-development/rower-development-guide/)). På det fjerde trinnet er roeren klar for elitesatsing, noe som innebærer en klar dedikasjon til trening og konkurranser.
 <table>
   <tr>
     <td colspan="3" class="center"><b>Utviklingssti</b></td>
@@ -28,7 +28,7 @@ I denne veilederen blir det brukt en mer generell nivåklassifikasjon med 4 utvi
   </tr>
   <tr>
     <td colspan="2">Utviklingsnivå</td>
-    <td>Modenhet/alder</td>
+    <td>Modenhet<sup>5</sup>/alder</td>
     <td>Antall økter<sup>1</sup> per uke</td>
     <td>Eksempel på økter (kan variere i perioder)</td>
     <td>Lengde av økter</td>
@@ -37,43 +37,43 @@ I denne veilederen blir det brukt en mer generell nivåklassifikasjon med 4 utvi
   </tr>
   <tr>
     <td><pre>Utviklingsnivå 4</pre></td>
-    <td>Høyt presterende klubbroere og kandidater til representasjon</td>
+    <td>Klubbroere med sterke prestasjoner nasjonalt og kandidater til representasjon.</td>
     <td>17+/yngre hvis høy modenhet</td>
-    <td>12</td>
-    <td>3-4 roing på vann eller roergo<br> 2-3 styrke<br> 4-5 sirkel eller annet</td>
-    <td>På vann <90 min.<br> På land <120 min. (men avhenger av intensitetssone)</td>
+    <td>12 økter/uke</td>
+    <td>3-5 økter roing på vann eller roergo<br>2-3 styrkeøkter<br>2-4 sirkel eller annet</td>
+    <td>På vann <90 min.<br> På land <120 min. (varighet avhenger av intensitet).</td>
     <td>10-15</td>
-    <td>Fokus på selvstendighet, kosthold og adferd<sup>2</sup>.<br> Regattaer: alle nasjonale regattaer, Nordisk, Baltic Cup<sup>3</sup>, Coupe de Jounesse<sup>4</sup><br> Aktiviter: treningssamlinger med klubb og/eller forbund.</td>
+    <td>Sterkere fokus på struktur i hverdagen, selvstendighet, kosthold og adferd<sup>2</sup>. Ønskelig med ordninger med skole / studiested.<br> Regattaer: alle nasjonale regattaer, Nordisk, Baltic Cup<sup>3</sup>, Coupe de Jounesse<sup>4</sup><br> Aktiviter: treningssamlinger med klubb og/eller forbund.</td>
   </tr>
   <tr>
     <td><pre>Utviklingsnivå 3</pre></td>
-    <td>Høyt presterende klubbroere og kandidater til representasjon</td>
+    <td>Roere som regelmessig deltar i regattaer.</td>
     <td>15+/yngre hvis høy modenhet</td>
-    <td>12</td>
-    <td>3-4 roing på vann eller roergo<br> 2-3 styrke<br> 4-5 sirkel eller annet</td>
-    <td>På vann <90 min.<br> På land <120 min. (men avhenger av intensitetssone)</td>
-    <td>10-15</td>
-    <td>Fokus også på selvstendighet, kosthold og adferd<sup>2</sup>.</td>
+    <td>6-8 økter/uke</td>
+    <td>4-5 økter roing på vann eller roergo<br>1-2 styrkeøkter<br>1-2 sirkel eller annet</td>
+    <td>På vann <75 min.<br> På land <90 min. (avhengig av intensitetssone; samme som på utviklingsnivå 2).</td>
+    <td>7-10 timer</td>
+    <td>U16 og de som ikke har trent styrke systematisk før, bør fokusere på utholdende styrke eller styrke med egen kropsvekt. Introdusere fokus på selvstendighet, kosthold og adferd<sup>2</sup>.</td>
   </tr>
   <tr>
     <td><pre>Utviklingsnivå 2</pre></td>
-    <td>Høyt presterende klubbroere og kandidater til representasjon</td>
+    <td>Roere under utvikling og mosjonister.</td>
     <td>13+/yngre hvis høy modenhet</td>
-    <td>8</td>
-    <td>3-4 roing på vann eller roergo<br> 2-3 styrke<br> 4-5 sirkel eller annet</td>
-    <td>På vann <90 min.<br> På land <120 min. (men avhenger av intensitetssone)</td>
-    <td>10-15</td>
-    <td>Fokus også på selvstendighet, kosthold og adferd<sup>2</sup>.</td>
+    <td>3-5 økter/uke</td>
+    <td>2-3 økter roing på vann eller roergo<br>1-2 på land (utholdenhetsaktivitet rundt en time, og samme som på utviklingsnivå 1).</td>
+    <td>45-60 min,</td>
+    <td>4-6 timer/uke</td>
+    <td>U15 kun parårede båter.</td>
   </tr>
   <tr>
     <td><pre><a href="https://github.com/digitnow/rodata/blob/main/TRENINGSNIVA-1.md">Utviklingsnivå 1</a></pre></td>
-    <td>Høyt presterende klubbroere og kandidater til representasjon</td>
-    <td>17+/yngre hvis høy modenhet</td>
-    <td>12</td>
-    <td>3-4 roing på vann eller roergo<br> 2-3 styrke<br> 4-5 sirkel eller annet</td>
-    <td>På vann <90 min.<br> På land <120 min. (men avhenger av intensitetssone)</td>
-    <td>10-15</td>
-    <td>Fokus også på selvstendighet, kosthold og adferd<sup>2</sup>.</td>
+    <td>Alle uansett alder.</td>
+    <td>11+</td>
+    <td>3 økter/uke</td>
+    <td>2 økter roing på vann<br>1 økt på land (basisøvelser, grunnleggende friidrettsøvelser, ballspill).</td>
+    <td>30-40 min.</td>
+    <td>1-2 timer/uke</td>
+    <td>Rospesifikk trening bør ha fokus på utvikling av rotekniske ferdigheter.</td>
   </tr>
 </table>
 
@@ -84,6 +84,8 @@ I denne veilederen blir det brukt en mer generell nivåklassifikasjon med 4 utvi
 3 [Baltic Cup](https://sarpsborg-roklubb.no/open-baltic-cup-regulations/)
 
 4 [Coupe de Jounesse](https://www.couperowing.org/)
+
+5 *Om modenhet: "Tidlig utviklede utøvere må ha annen påvirkning treningsmessig enn de som er sent utviklet. De sent utviklede utøverne må ha mye oppmerksomhet og andre utfordringer enn de tidlig utviklede. Konkurransedeltakelse i særlig målbare øvelser, slik som distanse på romaskin og racing i baner mot hverandre på vann i singelsculler kan oppleves demotiverende i visse perioder.*
 
 ## Spørsmål og Svar
 | Spørsmål | Svar |

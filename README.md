@@ -91,7 +91,10 @@ I denne veilederen blir det brukt en mer generell nivåklassifikasjon med 4 utvi
 | Spørsmål | Svar |
 | ----------- | ----------- |
 | Jeg er en rekreasjons-/hobbyroer, er denne veilederen for meg? | Ja. Veilederen er for alle som deltar i rosporten. Det er forståelig at noen ønsker og trene på treningsnivå 1, og veilederen kan hjelpe å opprtettholde fokus i forhold til målsetting. |
-| Spørsmål | Text | 
+| Kan jeg ro før 11-års alder? | NR anbefaler ikke deltakelse i roaktiviteter for ungdom under 11 år. Fokus bør være på friidrettsøvelser, ballspill og andre idretter som er egnet for yngre ungdom.  | 
+| Jeg er 18 år, skal jeg begynne på utviklingsnivå 4? | Nei, alle nybegynnere skal starte på utviklingsnivå 1 og jobbe seg gradvis oppover. Det er viktig å lære det grunnleggende om rosporten før man søker større utfordringer. Lære å ro først, så lære å trene og etterpå lære å race.  | 
+| Jeg er på utviklingsnivå 4, hva kan jeg gjøre nå? | Det er anbefalt å delta på uttaksprosessen for representasjon i din aldersklasse (U19, U23 eller senior). Hvis du allerede følger en sesongplan og klarer å gjennomføre de påkrevde aktivitetene, så har du sannsynligvis allerede vært i kontakt med en representant fra Norges Roforbund, som støtter deg i prosesser videre. | 
+| Spørsmål | Text |
 
 
 ## Relevante lenker

@@ -36,17 +36,17 @@ I denne veilederen blir det brukt en mer generell nivåklassifikasjon med 4 utvi
     <td>Kommentar</td>
   </tr>
   <tr>
-    <td><pre>Utviklingsnivå 4</pre></td>
+    <td><pre>4</pre></td>
     <td>Klubbroere med sterke prestasjoner nasjonalt og kandidater til representasjon.</td>
     <td>17+/yngre hvis høy modenhet</td>
     <td>12 økter/uke</td>
     <td>3-5 økter roing på vann eller roergo<br>2-3 styrkeøkter<br>2-4 sirkel eller annet</td>
     <td>På vann <90 min.<br> På land <120 min. (varighet avhenger av intensitet).</td>
     <td>10-15</td>
-    <td>Sterkere fokus på struktur i hverdagen, selvstendighet, kosthold og adferd<sup>2</sup>. Ønskelig med ordninger med skole / studiested.<br> Regattaer: alle nasjonale regattaer, Nordisk, Baltic Cup<sup>3</sup>, Coupe de Jounesse<sup>4</sup><br> Aktiviter: treningssamlinger med klubb og/eller forbund.</td>
+    <td>Sterkere fokus på struktur i hverdagen, selvstendighet, kosthold og adferd<sup>2</sup>. Ønskelig med ordninger med skole / studiested.</td>
   </tr>
   <tr>
-    <td><pre>Utviklingsnivå 3</pre></td>
+    <td><pre>3</pre></td>
     <td>Roere som regelmessig deltar i regattaer.</td>
     <td>15+/yngre hvis høy modenhet</td>
     <td>6-8 økter/uke</td>
@@ -56,7 +56,7 @@ I denne veilederen blir det brukt en mer generell nivåklassifikasjon med 4 utvi
     <td>U16 og de som ikke har trent styrke systematisk før, bør fokusere på utholdende styrke eller styrke med egen kropsvekt. Introdusere fokus på selvstendighet, kosthold og adferd<sup>2</sup>.</td>
   </tr>
   <tr>
-    <td><pre>Utviklingsnivå 2</pre></td>
+    <td><pre>2</pre></td>
     <td>Roere under utvikling og mosjonister.</td>
     <td>13+/yngre hvis høy modenhet</td>
     <td>3-5 økter/uke</td>
@@ -66,7 +66,7 @@ I denne veilederen blir det brukt en mer generell nivåklassifikasjon med 4 utvi
     <td>U15 kun parårede båter.</td>
   </tr>
   <tr>
-    <td><pre><a href="https://github.com/digitnow/rodata/blob/main/TRENINGSNIVA-1.md">Utviklingsnivå 1</a></pre></td>
+    <td><pre><a href="https://github.com/digitnow/rodata/blob/main/TRENINGSNIVA-1.md">1</a></pre></td>
     <td>Alle uansett alder.</td>
     <td>11+</td>
     <td>3 økter/uke</td>

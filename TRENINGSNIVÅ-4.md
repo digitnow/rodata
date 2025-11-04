@@ -11,21 +11,22 @@ Formålet med dette trinnet er å utvikle en kompetent roer, som følger en års
 |  |  |  |  |
 | ---- | -------- | ------- | ---- |
 |🔴| Roferdigheter | Roer demonstrerer en høy kompetanse for de fleste roferdighetene<sup>srf</sup>.|🔹 lenke til video, f. eks. |
-|🔵| Atletisme | Øke prestasjoner fra treningnivå 3 |Flex: <br>🔹 ... <br>🔹 ... Styrke: <br>🔹 ... <br>🔹 ... <br>🔹 ... | 
-|🟠| Kondisjon | Skal være på et nivå som gir roeren mulighet til å prestere optimalt i rokonkurranser på vann. |<br>🔹 kan ro kontinuerlig med høy-kvalitets roteknikk opp til 90 minutter sammenhengende  |
-|🟣| Kunnskap og ferdigheter| Skal kunne trene selvstendig ved å følge instruksjoner fra trener. |<br>🔹 skvære <br>🔹 catch/vannfatning <br>🔹 finish/avslutning osv. |
+|🔵| Atletisme | Øke prestasjoner fra treningnivå 3 |Flex: <br>🔹 sittende på gulvet kan nå x cm over sin tå <br>Styrke: <br>🔹 teknisk korrekt gjennomfører knebøy, ryggoppryll, kettlebel-sving osv. <br>Stabilitet: <br>🔹 kan holde forskjellige type planker i minst 3 minutter (hver stilling 60 sekunder) | 
+|🟠| Kondisjon | Skal være på et nivå som gir roeren mulighet til å prestere optimalt i rokonkurranser på vann. |<br>🔹 kan ro kontinuerlig med høy-kvalitets roteknikk opp til 90 minutter sammenhengende <br>🔹 kan gjennomføre intervaller i soner I3-5 med høy-kvalitets teknikk |
+|🟣| Kunnskap og ferdigheter| Skal kunne trene selvstendig ved å følge instruksjoner fra trener. |<br>🔹 skal klare å holde fokus på arbeidsoppgaver 20-30 minutter av gangen <br>🔹 skal kunne ta egen avgjørelser for å improvisere under en treningsøkt <br>🔹 skal kunne dokumentere trenignsøkt detaljert (selvopplevd anstrengelse, pulsdata, notat om hvordan arbeide med fokuspunkter fungerte |
 |🟢| Etos<sup>etos</sup> og adferd | Viser adferd som er viktig for en eliteutøver. |<br>🔹 viser positiv innstilling i treningsgrupper <br>🔹 ... <br>🔹 har en forståelse for uttaksprosesser <br>🔹 ... |
 
-## Mininumskrav C2 2k og 5k
-|Øvelse|November |Januar |Mars|
-| --- | --- | --- | --- |
-| 2000m C2| 7:40/225w | 7:30/241w  | 7:20/258w |
-| 5000m C2| 20:20/190w | 19:50/205w | 19:40/210w|
+## Concept 2 Standard for 2k og 5k
+||2k|2k |5k |5k| 
+|---|---|---|---|---|
+|| Senior | U23 | Senior | U23 |
+| Menn | 6:05 | 6:15 | 16:00  | 16:30 |
+| Kvinner | 7:00 | 7:08 | 18:15 | 18:40 |
 
 ## Aktiviteter
 |  |  |
 | ---- | -------- |
-| Regattaer |Alle nasjonale regattaerRatzeburg regatta, Holland Beker regatta, Hamburg Junior regatta |
+| Regattaer | Alle nasjonale regattaer, Ratzeburg regatta, Holland Beker regatta, Hamburg Junior regatta |
 
 ## Mer detaljert beskrivelse av UN4
 Når det gjelder roferdigheter, så skal roeren kunne 

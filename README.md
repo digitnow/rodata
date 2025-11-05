@@ -1,6 +1,8 @@
 # rodata
 Utviklingsveileder for roing
 
+"Hvis det i sannhet skal lykkes å føre et menneske hen til et bestemt sted, må man først passe på å finne ham der hvor han er og begynne der. Dette er hemmeligheten i all hjelpekunst." Søren Kierkegaard
+
 ## Introduksjon
 Denne veilederens hovedmålet er å gi veiledning om trening for utviklingen av roere fra de begynner med roing til de er modne for å konkurrere på det høyeste nivå i sin aldersgruppe. Formålet med veilederen er å hjelpe roere å skaffe seg erfaring fra og oppleve glede med sin idrett, samt ha en passende progresjon gjennom fire utviklingstrinn. Roeren skal klare spesifiserte oppgaver i sin vei gjennom utviklingstrinn ved å lære rotekniske ferdigheter, utvikle rospesifikk fysisk kapasitet og bli en etablert medlem av rosporten. 
 

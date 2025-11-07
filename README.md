@@ -83,7 +83,7 @@ I denne veilederen blir det brukt en mer generell nivåklassifikasjon med 4 utvi
 
 2 *relativt høyt nivå av kompetanse, bra selvtillitt, god til å kommunisere i felleskapet, har sterk karakter/indre driv, og er selvgående/kreativ.*
 
-3 [Baltic Cup](https://sarpsborg-roklubb.no/open-baltic-cup-regulations/)
+3 [Baltic Cup](https://hjalmsjoarena.se/regulations.html)
 
 4 [Coupe de Jounesse](https://www.couperowing.org/)
 

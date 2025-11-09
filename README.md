@@ -103,12 +103,12 @@ Man kan også tenke på at først må man lære å ro (grunnleggende ferdigheter
 
 
 ## Utvikling av treningsprogrammer
-## Årsplan
+### Årsplan
 En systematisk tenkning rundt utvikling av en utøver innebærer å lage langtidsplaner. De kan være mer eller mindre detaljerte, men man må etterstrebe å lage en plan for å ha et utgangspunt for justeringer når planen skal realiseres. Med en plan er det også enklere å evaluere resultater og justere i neste omgang (neste år eller flere år, for eksemplel. Se et eksempel på årsplan i bilde under.
 
 ![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/janis-aarsplan-eksempel.png?raw=true)
 
-### Ukeprogramm
+### Ukeprogram
 Design av et ukeprogram kan ta for seg forskjellige aspekter / dimensjoner:
 1. Hvilken type økter er det?
    * rospesikikt:
@@ -123,17 +123,23 @@ Design av et ukeprogram kan ta for seg forskjellige aspekter / dimensjoner:
        * sykling på landvei / i terreng
        * svømming (kan være bra etter styrketrening når kroppen er sår)
        * langrenn i vintermånedene har vært populært blant roere tidligere, men pga. varierende skiforhold og generelt mindre skiferdigheteter i dagens ungdom, er det blitt mindre brukt
+         
 2. Hvis man ikke kan gjennomføre alle planlagte økter, hvilke skal man prioritere i diverse perioder av sesongen?
    * 1.prioritet (skal gjennomføres)
    * 2.prioritet (bør gjennomføres)
    * 3.prioritet (vil gi den lille ekstra, hvis gjennomføres) Se et eksempel i bilde under ![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/olafs-preseason-U17.png?raw=true)
+     
 3. Hvilken type intensitet har økten?
    * det finnes mange skalaer for intensitet, - intensitet kan kartlegges basert på hjerterytme, laktatmåling eller selvopplevd belastning
-   * se et eksempel i bilde under fra "Utvikling av fysiske kvaliteter i roing, 2. utgave" > ![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/isoner-roing-manual-fiskerstrand.png?raw=true)
-   * se også et eksempel på et ukeprogram som bruker farger for å illustrerer intensitetssoner > ![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/janis-prog-uke43-nr-mal.png?raw=true)
+   * se et eksempel i bilde under fra "Utvikling av fysiske kvaliteter i roing, 2. utgave" ![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/isoner-roing-manual-fiskerstrand.png?raw=true)
+   * se også et eksempel på et ukeprogram som bruker farger for å illustrerer intensitetssoner ![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/janis-prog-uke43-nr-mal.png?raw=true)
         
 
-## Relevante lenker
+## Referanser
+- "Utvikling av fysiske kvaliteter i roing, 2. utgave"
+- "Olafs treningsprogrammer, 2024"
+- "Janis årsplaner"
+- "Fredriks programer"
 
 
 

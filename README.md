@@ -22,7 +22,28 @@ I norsk roing har det vært brukt fire hovedtrinn i trappene (se ["Utvikling av 
 - utviklingsperioden (5. - 8. treningsår, vanlig alder 17-20 år)
 - prestasjonsperioden (9. treningsår og oppover, minimumsalder 21 år)
 
-I denne veilederen blir det brukt en mer generell nivåklassifikasjon med 4 utviklingstrinn (inspirert av ["Rower Development Guide", 2017 fra British Rowing"](https://www.britishrowing.org/knowledge/rower-development/rower-development-guide/)). På det fjerde trinnet er roeren klar for elitesatsing, noe som innebærer en klar dedikasjon til trening og konkurranser.
+I denne veilederen blir det brukt en mer generell nivåklassifikasjon med 4 utviklingstrinn (inspirert av ["Rower Development Guide", 2017 fra British Rowing"](https://www.britishrowing.org/knowledge/rower-development/rower-development-guide/)). På det fjerde trinnet er roeren klar for elitesatsing med en langsiktig plan og en klar dedikasjon til trening og konkurranser. 
+
+Man kan også tenke på at først må man lære å ro (grunnleggende ferdigheter), så kan man lære å trene (gjennomføring av spesifikke økter, konsentrasjon og iherdighet) og til slutt kan man begynne å lære å race. 
+
+### Utvikling av treningsprogrammer
+Når man skal utvk
+Når det gjelder treningsøkter, så kan man designe et ukes program ved å se på forskjellige aspekter / dimensjoner:
+1. hvilken type økter er det?
+   * rospesikikt:
+       * roing på vann
+       * roing på ergometer (C2, RP3, annen)
+       * styrketrening (kan deles igjen i maksimal, muskelbyggende og utholdende)
+       * basisøvelser (disse kan også overlappe med styrke, dvs. styrketrening med egen vekt); ikke alt er rospesifikt
+       * sirkeltrening, dvs. hvor man kombinerer forskjellige øvelser i en lengre økt; ikke alt rospesifikt
+   * "cross"-trening:
+       * løping (i roing er bakkeløp mye brukt, siden roere gjennomsnittlig veier forholdsvis mye og klarer ikke å få opp intensitet ved løping på flaten)
+       * sykling på ergometer (finnes mange modeller)
+       * sykling på landvei / i terreng
+       * svømming (kan være bra etter styrketrening når kroppen er sår)
+       * ski i vintermånedene har vært populært blant roere tidligere, men pga. varierende skiforhold og generelt mindre skiferdigheteter i dagens ungdom, er det blitt mindre brukt
+2. hvis man ikke kan gjennomføre alle planlagte økter, hvilke skal man prioritere i diverse perioder av sesongen?
+
 <table>
   <tr>
     <td colspan="3" class="center"><b>Utviklingssti</b></td>

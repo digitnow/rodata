@@ -28,7 +28,7 @@ Man kan også tenke på at først må man lære å ro (grunnleggende ferdigheter
 
 ### Utvikling av treningsprogrammer
 Når man skal utvk
-Når det gjelder treningsøkter, så kan man designe et ukes program ved å se på forskjellige aspekter / dimensjoner:
+Når det gjelder treningsøkter, under design av et ukesprogram er man ofte nødt til å se på forskjellige aspekter / dimensjoner:
 1. hvilken type økter er det?
    * rospesikikt:
        * roing på vann
@@ -45,7 +45,9 @@ Når det gjelder treningsøkter, så kan man designe et ukes program ved å se p
 2. hvis man ikke kan gjennomføre alle planlagte økter, hvilke skal man prioritere i diverse perioder av sesongen?
    * 1.prioritet (skal gjennomføres)
    * 2.prioritet (bør gjennomføres)
-   * 3.prioritet (vil gi den lille ekstra, hvis gjennomføres) ![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/olafs-preseason-U17.png?raw=true)
+   * 3.prioritet (vil gi den lille ekstra, hvis gjennomføres) Se et eksempel i bilde under ![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/olafs-preseason-U17.png?raw=true)
+3. hvilken type intensitet har økten?
+   * det finnes mange skalaer for intensitet, for eksempel lett/medium/hard økt eller mer detaljerte skalaer basert på hjerterytme, laktatmålinger.
        
         
 

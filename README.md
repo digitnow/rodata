@@ -110,8 +110,8 @@ En systematisk tenkning rundt utvikling av en utøver innebærer å lage langtid
 
 ### Ukeprogram
 Design av et ukeprogram kan ta for seg forskjellige aspekter / dimensjoner:
-1. Hvilken type økter er det?
-   * rospesikikt:
+1. Hvilken type økter er det? (øktene av forskjellige typer bør kombineres basert på utøverens profil)
+   * rospesifikt:
        * roing på vann
        * roing på ergometer (C2, RP3, annen)
        * styrketrening (kan deles igjen i maksimal, muskelbyggende og utholdende)
@@ -124,7 +124,7 @@ Design av et ukeprogram kan ta for seg forskjellige aspekter / dimensjoner:
        * svømming (kan være bra etter styrketrening når kroppen er sår)
        * langrenn i vintermånedene har vært populært blant roere tidligere, men pga. varierende skiforhold og generelt mindre skiferdigheteter i dagens ungdom, er det blitt mindre brukt
          
-2. Hvis man ikke kan gjennomføre alle planlagte økter, hvilke skal man prioritere i diverse perioder av sesongen?
+2. Hvis man ikke kan gjennomføre alle planlagte økter, hvilke skal man prioritere i diverse perioder av sesongen? (kan være nyttig for en større gruppe med utøvere med varierende ambisjonsnivå og andre gjøremål)
    * 1.prioritet (skal gjennomføres)
    * 2.prioritet (bør gjennomføres)
    * 3.prioritet (vil gi den lille ekstra, hvis gjennomføres) Se et eksempel i bilde under ![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/olafs-preseason-U17.png?raw=true)

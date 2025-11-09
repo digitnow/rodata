@@ -33,8 +33,8 @@ Man kan også tenke på at først må man lære å ro (grunnleggende ferdigheter
   </tr>
   <tr>
     <td colspan="2">Utviklingsnivå</td>
-    <td>Modenhet<sup>5</sup>/alder</td>
-    <td>Antall økter<sup>1</sup> per uke</td>
+    <td>Modenhet<sup>1</sup>/alder</td>
+    <td>Antall økter<sup>2</sup> per uke</td>
     <td>Eksempel på økter (kan variere i perioder)</td>
     <td>Lengde av økter</td>
     <td>Treningstimer per uke</td>
@@ -58,7 +58,7 @@ Man kan også tenke på at først må man lære å ro (grunnleggende ferdigheter
     <td>4-5 økter roing på vann eller roergo<br>1-2 styrkeøkter<br>1-2 sirkel eller annet</td>
     <td>På vann <75 min.<br> På land <90 min. (avhengig av intensitetssone; samme som på utviklingsnivå 2).</td>
     <td>7-10 timer</td>
-    <td>U16 og de som ikke har trent styrke systematisk før, bør fokusere på utholdende styrke eller styrke med egen kropsvekt. Introdusere fokus på selvstendighet, kosthold og adferd<sup>2</sup>.</td>
+    <td>U16 og de som ikke har trent styrke systematisk før, bør fokusere på utholdende styrke eller styrke med egen kropsvekt. Introdusere fokus på selvstendighet, kosthold og adferd<sup>3</sup>.</td>
   </tr>
   <tr>
     <td><pre>2</pre></td>
@@ -82,15 +82,11 @@ Man kan også tenke på at først må man lære å ro (grunnleggende ferdigheter
   </tr>
 </table>
 
-1 *antall økter for rospesifikk aktivitet (C2, RP3, annen romaskin, roing på vann i forskjellige typer båter); for yngre roere er det viktig med varierte aktivitetsformer, som løping, ski, sykling (ute og inne), svømming, ballspill osv.*
+1 *Om modenhet: "Tidlig utviklede utøvere må ha annen påvirkning treningsmessig enn de som er sent utviklet. De sent utviklede utøverne må ha mye oppmerksomhet og andre utfordringer enn de tidlig utviklede. Konkurransedeltakelse i særlig målbare øvelser, slik som distanse på romaskin og racing i baner mot hverandre på vann i singelsculler kan oppleves demotiverende i visse perioder.*
 
-2 *relativt høyt nivå av kompetanse, bra selvtillitt, god til å kommunisere i felleskapet, har sterk karakter/indre driv, og er selvgående/kreativ.*
+2 *antall økter for både rospesifikk aktivitet (C2, RP3, annen romaskin, roing på vann i forskjellige typer båter) og "cross"-trening; for yngre roere er det viktig med varierte aktivitetsformer, som løping, langrenn, sykling (ute og inne), svømming, ballspill osv.*
 
-3 [Baltic Cup](https://hjalmsjoarena.se/regulations.html)
-
-4 [Coupe de Jounesse](https://www.couperowing.org/)
-
-5 *Om modenhet: "Tidlig utviklede utøvere må ha annen påvirkning treningsmessig enn de som er sent utviklet. De sent utviklede utøverne må ha mye oppmerksomhet og andre utfordringer enn de tidlig utviklede. Konkurransedeltakelse i særlig målbare øvelser, slik som distanse på romaskin og racing i baner mot hverandre på vann i singelsculler kan oppleves demotiverende i visse perioder.*
+3 *relativt høyt nivå av kompetanse, bra selvtillitt, god til å kommunisere i felleskapet, har sterk karakter/indre driv, og er selvgående/kreativ.*
 
 ## Spørsmål og Svar
 | Spørsmål | Svar |
@@ -140,6 +136,8 @@ Design av et ukeprogram kan ta for seg forskjellige aspekter / dimensjoner:
 - "Olafs treningsprogrammer, 2024"
 - "Janis årsplaner"
 - "Fredriks programer"
+- [Baltic Cup](https://hjalmsjoarena.se/regulations.html)
+- [Coupe de Jounesse](https://www.couperowing.org/)
 
 
 

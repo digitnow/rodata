@@ -26,31 +26,6 @@ I denne veilederen blir det brukt en mer generell nivåklassifikasjon med 4 utvi
 
 Man kan også tenke på at først må man lære å ro (grunnleggende ferdigheter), så kan man lære å trene (gjennomføring av spesifikke økter, konsentrasjon og iherdighet) og til slutt kan man begynne å lære å race. 
 
-### Utvikling av treningsprogrammer
-Når man skal utvk
-Når det gjelder treningsøkter, under design av et ukesprogram er man ofte nødt til å se på forskjellige aspekter / dimensjoner:
-1. hvilken type økter er det?
-   * rospesikikt:
-       * roing på vann
-       * roing på ergometer (C2, RP3, annen)
-       * styrketrening (kan deles igjen i maksimal, muskelbyggende og utholdende)
-       * basisøvelser (disse kan også overlappe med styrke, dvs. styrketrening med egen vekt); ikke alt er rospesifikt
-       * sirkeltrening, dvs. hvor man kombinerer forskjellige øvelser i en lengre økt; ikke alt rospesifikt
-   * "cross"-trening:
-       * løping (i roing er bakkeløp mye brukt, siden roere gjennomsnittlig veier forholdsvis mye og klarer ikke å få opp intensitet ved løping på flaten)
-       * sykling på ergometer (finnes mange modeller)
-       * sykling på landvei / i terreng
-       * svømming (kan være bra etter styrketrening når kroppen er sår)
-       * ski i vintermånedene har vært populært blant roere tidligere, men pga. varierende skiforhold og generelt mindre skiferdigheteter i dagens ungdom, er det blitt mindre brukt
-2. hvis man ikke kan gjennomføre alle planlagte økter, hvilke skal man prioritere i diverse perioder av sesongen?
-   * 1.prioritet (skal gjennomføres)
-   * 2.prioritet (bør gjennomføres)
-   * 3.prioritet (vil gi den lille ekstra, hvis gjennomføres) Se et eksempel i bilde under ![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/olafs-preseason-U17.png?raw=true)
-3. hvilken type intensitet har økten?
-   * det finnes mange skalaer for intensitet, for eksempel lett/medium/hard økt eller mer detaljerte skalaer basert på hjerterytme, laktatmålinger.
-       
-        
-
 <table>
   <tr>
     <td colspan="3" class="center"><b>Utviklingssti</b></td>
@@ -126,6 +101,36 @@ Når det gjelder treningsøkter, under design av et ukesprogram er man ofte nød
 | Jeg er på utviklingsnivå 4, hva kan jeg gjøre nå? | Det er anbefalt å delta på uttaksprosessen for representasjon i din aldersklasse (U19, U23 eller senior). Hvis du allerede følger en sesongplan og klarer å gjennomføre de påkrevde aktivitetene, så har du sannsynligvis allerede vært i kontakt med en representant fra Norges Roforbund, som støtter deg i prosesser videre. | 
 | Spørsmål | Text |
 
+
+## Utvikling av treningsprogrammer
+## Årsplan
+En systematisk tenkning rundt utvikling av en utøver innebærer å lage langtidsplaner. De kan være mer eller mindre detaljerte, men man må etterstrebe å lage en plan for å ha et utgangspunt for justeringer når planen skal realiseres. Men en plan er det også enklere å evaluere resultater og justere i neste omgang (neste år eller flere år, for eksemplel. Se et eksempel på årsplan i bilde under.
+
+![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/olafs-preseason-U17.png?raw=true)
+
+### Ukeprogramm
+Design av et ukeprogram kan ta for seg forskjellige aspekter / dimensjoner:
+1. Hvilken type økter er det?
+   * rospesikikt:
+       * roing på vann
+       * roing på ergometer (C2, RP3, annen)
+       * styrketrening (kan deles igjen i maksimal, muskelbyggende og utholdende)
+       * basisøvelser (disse kan også overlappe med styrke, dvs. styrketrening med egen vekt); ikke alt er rospesifikt
+       * sirkeltrening, dvs. hvor man kombinerer forskjellige øvelser i en lengre økt; ikke alt rospesifikt
+   * "cross"-trening:
+       * løping (i roing er bakkeløp mye brukt, siden roere gjennomsnittlig veier forholdsvis mye og klarer ikke å få opp intensitet ved løping på flaten)
+       * sykling på ergometer (finnes mange modeller)
+       * sykling på landvei / i terreng
+       * svømming (kan være bra etter styrketrening når kroppen er sår)
+       * langrenn i vintermånedene har vært populært blant roere tidligere, men pga. varierende skiforhold og generelt mindre skiferdigheteter i dagens ungdom, er det blitt mindre brukt
+2. Hvis man ikke kan gjennomføre alle planlagte økter, hvilke skal man prioritere i diverse perioder av sesongen?
+   * 1.prioritet (skal gjennomføres)
+   * 2.prioritet (bør gjennomføres)
+   * 3.prioritet (vil gi den lille ekstra, hvis gjennomføres) Se et eksempel i bilde under ![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/olafs-preseason-U17.png?raw=true)
+3. Hvilken type intensitet har økten?
+   * det finnes mange skalaer for intensitet, for eksempel lett/medium/hard økt eller mer detaljerte skalaer basert på hjerterytme, laktatmålinger. Se et eksempel i bilde under ![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/isoner-roing-manual-fiskerstrand.png?raw=true)
+   * se også et eksempel på et ukeprogram som bruker farger for å illustrerer intensitetssoner ![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/janis-prog-uke43-nr-mal.png?raw=true)
+        
 
 ## Relevante lenker
 

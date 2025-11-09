@@ -13,10 +13,10 @@ Veilederen skal også gi en god innsikt for roere, trenere og andre interessente
 - Oppmyntre til langsiktig tenking for utvikling og ikke bare et fokus på kortsiktige seiere (**langsiktig målsetting og planlegging**).
 - Forsikre seg om at roeren trener på et passende nivå og etter eget evne.
 - Ta hensyn til både individuell utviklingsalder og kronologisk alder (**nivåbasert utvikling, utviklingstrapp**).
-- Se på romiljøet som en helhet og se på hvilken rolle kan trenere (både frivillige, semi-profesjonelle og profesjonelle), [familie](https://idrettsforbundet.sharepoint.com/sites/NRdokumenter/Delte%20dokumenter/Forms/AllItems.aspx?id=%2Fsites%2FNRdokumenter%2FDelte%20dokumenter%2FNR%2EWeb%2FToppidrett%2FFaglitteratur%2FOLT%20Foreldreguide%2Epdf&parent=%2Fsites%2FNRdokumenter%2FDelte%20dokumenter%2FNR%2EWeb%2FToppidrett%2FFaglitteratur&p=true&ga=1) og i visse tilfeller et støtteapparat spille i livet til en roer under utvikling (**optimalt samarbeid mellom alle aktørene**).
+- Se på romiljøet som en helhet og se på hvilken rolle kan trenere (både frivillige, semi-profesjonelle og profesjonelle), familie og i visse tilfeller et støtteapparat spille i livet til en roer under utvikling (**optimalt samarbeid mellom alle aktørene**).
 
 ### Nivåbasert utvikling (utviklingstrapp)
-I norsk roing har det vært brukt fire hovedtrinn i trappene (se ["Utvikling av fysiske kvaliteter i roing, 2. utgave"](https://www.example.com](https://idrettsforbundet.sharepoint.com/:w:/s/NRdokumenter/EbsKMgEomLZNiM1BanyoVQwB-lhipFPBb6_j6u6cT6HDnQ?rtime=ZMD-EgQP3kg))):
+I norsk roing har det vært brukt fire hovedtrinn i trappene (se "Utvikling av fysiske kvaliteter i roing, 2. utgave" på roing.no)]:
 - rekrutteringsperioden (1. og 2. treningsår, vanlig alder 12-14 år)
 - etablieringsperioden (3. og 4. treningsår, vanlig alder 15-16 år)
 - utviklingsperioden (5. - 8. treningsår, vanlig alder 17-20 år)
@@ -43,6 +43,11 @@ Når det gjelder treningsøkter, så kan man designe et ukes program ved å se p
        * svømming (kan være bra etter styrketrening når kroppen er sår)
        * ski i vintermånedene har vært populært blant roere tidligere, men pga. varierende skiforhold og generelt mindre skiferdigheteter i dagens ungdom, er det blitt mindre brukt
 2. hvis man ikke kan gjennomføre alle planlagte økter, hvilke skal man prioritere i diverse perioder av sesongen?
+   * 1.prioritet (skal gjennomføres)
+   * 2.prioritet (bør gjennomføres)
+   * 3.prioritet (vil gi den lille ekstra, hvis gjennomføres) ![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/olafs-preseason-U17.png?raw=true)
+       
+        
 
 <table>
   <tr>
@@ -121,14 +126,6 @@ Når det gjelder treningsøkter, så kan man designe et ukes program ved å se p
 
 
 ## Relevante lenker
-[OLT Foreldreguide](https://idrettsforbundet.sharepoint.com/sites/NRdokumenter/Delte%20dokumenter/Forms/AllItems.aspx?id=%2Fsites%2FNRdokumenter%2FDelte%20dokumenter%2FNR%2EWeb%2FToppidrett%2FFaglitteratur%2FOLT%20Foreldreguide%2Epdf&parent=%2Fsites%2FNRdokumenter%2FDelte%20dokumenter%2FNR%2EWeb%2FToppidrett%2FFaglitteratur&p=true&ga=1)
 
 
-## Diverse kodeeksempler (testing)
 
-| Metric        |   Current |   Target |   Status   |
-|:--------------|----------:|---------:|:----------:|
-| Response Time |     245ms |  < 200ms | ⚠️ Warning |
-| Memory Usage  |     512MB |  < 256MB |   ❌ Over   |
-| CPU Usage     |       35% |    < 50% |   ✅ Good   |
-| Error Rate    |     0.02% |  < 0.01% | ⚠️ Warning |

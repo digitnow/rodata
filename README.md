@@ -106,7 +106,7 @@ Man kan også tenke på at først må man lære å ro (grunnleggende ferdigheter
 ## Årsplan
 En systematisk tenkning rundt utvikling av en utøver innebærer å lage langtidsplaner. De kan være mer eller mindre detaljerte, men man må etterstrebe å lage en plan for å ha et utgangspunt for justeringer når planen skal realiseres. Men en plan er det også enklere å evaluere resultater og justere i neste omgang (neste år eller flere år, for eksemplel. Se et eksempel på årsplan i bilde under.
 
-![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/olafs-preseason-U17.png?raw=true)
+![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/janis-aarsplan-eksempel.png?raw=true)
 
 ### Ukeprogramm
 Design av et ukeprogram kan ta for seg forskjellige aspekter / dimensjoner:

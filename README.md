@@ -104,7 +104,7 @@ Man kan også tenke på at først må man lære å ro (grunnleggende ferdigheter
 
 ## Utvikling av treningsprogrammer
 ## Årsplan
-En systematisk tenkning rundt utvikling av en utøver innebærer å lage langtidsplaner. De kan være mer eller mindre detaljerte, men man må etterstrebe å lage en plan for å ha et utgangspunt for justeringer når planen skal realiseres. Men en plan er det også enklere å evaluere resultater og justere i neste omgang (neste år eller flere år, for eksemplel. Se et eksempel på årsplan i bilde under.
+En systematisk tenkning rundt utvikling av en utøver innebærer å lage langtidsplaner. De kan være mer eller mindre detaljerte, men man må etterstrebe å lage en plan for å ha et utgangspunt for justeringer når planen skal realiseres. Med en plan er det også enklere å evaluere resultater og justere i neste omgang (neste år eller flere år, for eksemplel. Se et eksempel på årsplan i bilde under.
 
 ![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/janis-aarsplan-eksempel.png?raw=true)
 
@@ -128,8 +128,9 @@ Design av et ukeprogram kan ta for seg forskjellige aspekter / dimensjoner:
    * 2.prioritet (bør gjennomføres)
    * 3.prioritet (vil gi den lille ekstra, hvis gjennomføres) Se et eksempel i bilde under ![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/olafs-preseason-U17.png?raw=true)
 3. Hvilken type intensitet har økten?
-   * det finnes mange skalaer for intensitet, for eksempel lett/medium/hard økt eller mer detaljerte skalaer basert på hjerterytme, laktatmålinger. Se et eksempel i bilde under ![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/isoner-roing-manual-fiskerstrand.png?raw=true)
-   * se også et eksempel på et ukeprogram som bruker farger for å illustrerer intensitetssoner ![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/janis-prog-uke43-nr-mal.png?raw=true)
+   * det finnes mange skalaer for intensitet, - intensitet kan kartlegges basert på hjerterytme, laktatmåling eller selvopplevd belastning
+   * se et eksempel i bilde under fra "Utvikling av fysiske kvaliteter i roing, 2. utgave" > ![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/isoner-roing-manual-fiskerstrand.png?raw=true)
+   * se også et eksempel på et ukeprogram som bruker farger for å illustrerer intensitetssoner > ![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/janis-prog-uke43-nr-mal.png?raw=true)
         
 
 ## Relevante lenker

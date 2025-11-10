@@ -36,10 +36,10 @@ Psykologi Fysiologi
 ![Værdata fra itasmobaws1](https://github.com/digitnow/rodata/blob/main/docs/images/vaerdata-aarungen-20251106-SJ2-.png?raw=true)
 Figur 1. Værdata fra itasmobaws1
 
-![Værdata fra itasmobaws1](https://github.com/digitnow/rodata/blob/main/docs/images/oktaarungen20251106tracemedvind.png?raw=true)
+![Trace i medvin1](https://github.com/digitnow/rodata/blob/main/docs/images/oktaarungen20251106tracemedvind.png?raw=true)
 Figur 2. Trace i medvind fra økt 20251106
 
-![Værdata fra itasmobaws1](https://github.com/digitnow/rodata/blob/main/docs/images/oktaarungen20251106tracemotvind.png.png?raw=true)
+![Trace i motvind](https://github.com/digitnow/rodata/blob/main/docs/images/oktaarungen20251106tracemotvind.png?raw=true)
 Figur 3. Trace i motvind fra økt 20251106
 
 

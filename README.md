@@ -127,7 +127,12 @@ Design av et ukeprogram kan ta for seg forskjellige aspekter / dimensjoner:
      
 3. Hvilken type intensitet har økten?
    * det finnes mange skalaer for intensitet, - intensitet kan kartlegges basert på hjerterytme, laktatmåling eller selvopplevd belastning
+     
    * se et eksempel i bilde under fra "Utvikling av fysiske kvaliteter i roing, 2. utgave" ![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/isoner-roing-manual-fiskerstrand.png?raw=true)
+
+   * På Olympiatoppens sine sider finnes det også enklere skalaer:
+       * [Øktmodell for unge roere 15-16 år](https://olt-skala.nif.no/oktmodeller_ung_roing.png) (egnet for utviklingsnivå 2-3)
+       * [Øktmodell for roing](https://olt-skala.nif.no/oktmodeller_roing.png) (egnet for utviklingsnivå 4)
    * se også et eksempel på et ukeprogram som bruker farger for å illustrerer intensitetssoner ![OT Preseason U17](https://github.com/digitnow/rodata/blob/main/docs/images/janis-prog-uke43-nr-mal.png?raw=true)
         
 

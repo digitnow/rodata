@@ -44,7 +44,7 @@ Man kan også tenke på at først må man lære å ro (grunnleggende ferdigheter
     <td><pre>4</pre></td>
     <td>Klubbroere med sterke prestasjoner nasjonalt og kandidater til representasjon.</td>
     <td>17+/yngre hvis høy modenhet</td>
-    <td>12 økter/uke</td>
+    <td>8-12 økter/uke</td>
     <td>3-5 økter roing på vann eller roergo<br>2-3 styrkeøkter<br>2-4 sirkel eller annet</td>
     <td>På vann <90 min.<br> På land <120 min. (varighet avhenger av intensitet).</td>
     <td>10-15</td>

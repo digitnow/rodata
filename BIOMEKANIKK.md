@@ -19,6 +19,41 @@ Kort oppsummert (PI overestimerer verdier):
 - gjennomsnittlig båtfart 1.8% høyere med PI (målt med GPS)
 - dataene fra systemene (PI og BioRow) korrelerer mest på kraft i enkelt tak og gradienten (økningen) til catch kraft, og korrelerer minst (størst forskjell) i maksimal kraft
 
+# Bruk av biomekaniske data
+En pågående prosess:
+- Hvordan ser det ut? (kartlegging av teknikk, prestasjonsnivå)
+- Hva er årsaken?
+- Hvordan kan vi jobbe med det?
+
+Teknikk Taktikk
+
+Psykologi Fysiologi
+
+- diverse sensorer er datakilder 
+- i programvaren kalles dataserier for "channels"
+
+## Noen bilder fra økt 20251106
+![Værdata fra itasmobaws1](https://github.com/digitnow/rodata/blob/main/docs/images/vaerdata-aarungen-20251106-SJ2-.png?raw=true)
+Figur 1. Værdata fra itasmobaws1
+
+![Værdata fra itasmobaws1](https://github.com/digitnow/rodata/blob/main/docs/images/oktaarungen20251106tracemedvind.png?raw=true)
+Figur 2. Trace i medvind fra økt 20251106
+
+![Værdata fra itasmobaws1](https://github.com/digitnow/rodata/blob/main/docs/images/oktaarungen20251106tracemotvind.png.png?raw=true)
+Figur 3. Trace i motvind fra økt 20251106
+
+
+# Om analyse av tidsserier
+Mest interesse i sub-serier av store mengder av tidsavhengige dataserier. Man ønsker å se på mønster i data ved hjelp av metoder som
+- klassifisering
+- prognose / prediksjon
+- clustering
+- motivrekognisering
+- anomalier/avvik
+
+Likhet mellom gjentagende mønstre (som et tak)
+
 # Referanser
 - "Everything You Need to Know About Sculling Oars - Angus Rowboats", from angusrowboats.com, last reviewed 2025-11-09
 - "Data comparison between BioRow and Peach systems", from https://biorow.com/rbn2025_10/, last reviewed 2025-11-10
+- "Row.Team - A conversation with Conny Draper, Sports Biomechanist", 2020,  https://www.youtube.com/watch?v=zqhbk9UYxH8 øast viewed 2025-11-10

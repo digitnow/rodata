@@ -11,7 +11,10 @@
 |🔵| Atletisme | Grunnleggende fleksibilitet, styrke  og stabilitet (balansere på medisinball, kan holde planker i 45-60 sekunder) som støtte for utvikling a roferdigheter, kan vise korrekt<sup>rotak</sup> bevegelsesmønster for roing og kjenner til de vanligste utfordringene under gjennomføring av hele syklus av et rotak.|Flex: <br>🔹 nå tå/gulvet med fingertuppene med lite bøyde bein, <br>🔹 ligge med korsryggen i bakken og løfte rette bein fra gulvet <br> Styrke: helst med egen vekt: <br>🔹 push-ups, <br>🔹 sit-ups, <br>🔹 hang-ups, <br>🔹 spensthopp, <br>🔹 hopp-med-hoppetau, <br>🔹 stående lengdehopp, <br>🔹 gjentatte lengdehopp | 
 |🟠| Kondisjon | Høy puls på 1-2 økter per uke (når det er så få økter, bør man utføre et par økter med relativt høy intensitet) |<br>🔹 kan ro kontinuerlig med grunnleggende roteknikk 20-30 min. sammenhengende  |
 |🟣| Kunnskap og ferdigheter| Kjenner til roterminologien, sikkerhetsrutiner og passende påkledning tilpasset værforhold. |<br>🔹 lenke til routtrykk <br>🔹 lenke til råd om påkledning <br>🔹 lenke til generelle sikkerhetsbetraktninger (obs! disse bør utvikles i samarbeid med klubber osv. |
-|🟢| Etos<sup>etos</sup> og adferd | Viser grunnleggende forståelse av kulturen i romiljøet og kan reflektere over passende og upassende adferd. |<br>🔹 kompetanse om alle forhold i en roklubb, <br>🔹 selvtillit under rotur, <br>🔹 kommunikasjon med alle klubbmedlemmer og deltakelse i dugnadsarbeid, <br>🔹 kjennskap til nødvendige karaktertrekk i roing (positiv innstilling), <br>🔹 utviser en viss grad av selvstendighet/kreativitet|
+|🟢| Etos<sup>etos</sup> og adferd | Viser grunnleggende forståelse av kulturen i romiljøet og kan reflektere over passende og upassende adferd. |<br>🔹 begynner å bli kjent med forhold i en roklubb, <br>🔹 viser selvtillit under roturer, <br>🔹 kommuniserer bra med flere klubbmedlemmer og deltar i dugnadsarbeid, <br>🔹 kjenner til nødvendige karaktertrekk for roing (generelt positiv innstilling; unngå klaging), <br>🔹 utviser en viss grad av selvstendighet/kreativitet|
+
+## Periodisering og treningsprogrammer
+Det er ikke nødvendig med detaljert periodisering for denne gruppen, men treningstider og materiell må allokeres. Det bør også utnevnes en gruppeansvarlig, som sender ut invitasjoner til tur osv. En kalender med relevante aktiviteter anbefales. Gruppelederen kan ha ansvar for å identifisere roere, som kan gå opp til nivå 2.
 
 ## Aktiviteter
 Fokuset bør være på læring, utivikling av grunnleggende roferdigheter (årehåndtering, sekvensiell anvendelse av muskler), glede ved bevegelse og sosiale erfaringer fra romiljøet / klubbmiljøet. 
@@ -19,7 +22,7 @@ Fokuset bør være på læring, utivikling av grunnleggende roferdigheter (åreh
 Man kan delta på arrangement som fokuserer på håndtering av båt og årer (roferdigheter), eventuelt turer i større båter (coastal?). Klubben bør organisere egne regattaer med en kortere distanse, hvor nybegynnere kan demostrere at de mestrer grunnleggende roferdigheter
 - kjenne til grunnleggende kodeks for håndtering av båter,
 - komme inn i og ut av diverse typer båter,
-- kunne ro fokusert 3-5 minutter av gangen med ønsket roteknikk),
+- kunne ro fokusert 3-5 minutter av gangen med spesifikk roteknikk),
 - kunne gjennomføre enkelte øvelser for årehåndtering og balanse.
 
 ## Relevante lenker

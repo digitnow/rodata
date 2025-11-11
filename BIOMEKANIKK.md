@@ -1,4 +1,4 @@
-# Biomekaniske måling og betraktninger
+# Biomekaniske målinger og betraktninger rundt dem
 To kjente systemer, - BioRow (Kleshnev) https://biorow.com og Peach Innovations peachinnovations.com. 
 
 Se artikkel fra 7. november 2025 publisert av BioRow https://biorow.com/rbn2025_10/ 

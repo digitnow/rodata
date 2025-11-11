@@ -21,7 +21,7 @@ Kan begynne å periodisere noe. Dele året inn i 4 perioder:
 - regattasesongen (mai-september).
 
 Eksempel på treningsprog for "pre-season" (mars-april)
-[Øktmodell for unge roere 15-16 år](https://olt-skala.nif.no/prog-nivaa2-pre-season.png) 
+[Øktmodell for unge roere 15-16 år](https://olt-skala.nif.no](https://github.com/digitnow/rodata/blob/main/docs/images/prog-nivaa2-pre-season.png) 
 
 ## Aktiviteter
 Treningsmengden og roferdighetene er nå på et nivå som gjør at man kan delta på regattaer. Man kan begynne med nybegynnerklassen og så fortsette med noen regattaer i sin aldersgruppe. 

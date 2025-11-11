@@ -41,17 +41,17 @@ Man kan også tenke på at først må man lære å ro (grunnleggende ferdigheter
     <td>Kommentar</td>
   </tr>
   <tr>
-    <td><pre>4</pre></td>
+    <td><pre><a href="https://github.com/digitnow/rodata/blob/main/TRENINGSNIVA-4.md">Nivå 4</a></pre></td>
     <td>Klubbroere med sterke prestasjoner nasjonalt og kandidater til representasjon.</td>
     <td>17+/yngre hvis høy modenhet</td>
     <td>8-12 økter/uke</td>
-    <td>3-5 økter roing på vann eller roergo<br>2-3 styrkeøkter<br>2-4 sirkel eller annet</td>
-    <td>På vann <90 min.<br> På land <120 min. (varighet avhenger av intensitet).</td>
+    <td>3-10 økter roing på vann eller roergo<br>2-3 styrkeøkter<br>2-4 sirkel eller basis</td>
+    <td>På vann <90 min.<br> På land <120 min. (varighet avhenger av intensitet). Helst ikke mer enn 3-4 roergometerøkter per uke om vinteren.</td>
     <td>10-15</td>
     <td>Sterkere fokus på struktur i hverdagen, selvstendighet, kosthold og adferd<sup>2</sup>. Ønskelig med ordninger med skole / studiested.</td>
   </tr>
   <tr>
-    <td><pre>3</pre></td>
+    <td><pre><a href="https://github.com/digitnow/rodata/blob/main/TRENINGSNIVA-2.md">Nivå 3</a></pre></td>
     <td>Roere som regelmessig deltar i regattaer.</td>
     <td>15+/yngre hvis høy modenhet</td>
     <td>6-8 økter/uke</td>
@@ -61,17 +61,17 @@ Man kan også tenke på at først må man lære å ro (grunnleggende ferdigheter
     <td>U16 og de som ikke har trent styrke systematisk før, bør fokusere på utholdende styrke eller styrke med egen kropsvekt. Introdusere fokus på selvstendighet, kosthold og adferd<sup>3</sup>.</td>
   </tr>
   <tr>
-    <td><pre>2</pre></td>
+    <td><pre><a href="https://github.com/digitnow/rodata/blob/main/TRENINGSNIVA-2.md">Nivå 2</a></pre></td>
     <td>Roere under utvikling og mosjonister.</td>
     <td>13+/yngre hvis høy modenhet</td>
     <td>3-5 økter/uke</td>
-    <td>2-3 økter roing på vann eller roergo<br>1-2 på land (utholdenhetsaktivitet rundt en time, og samme som på utviklingsnivå 1).</td>
+    <td>2-5 økter roing på vann eller roergo<br>1-2 på land (utholdenhetsaktivitet rundt en time, og samme som på utviklingsnivå 1).</td>
     <td>45-60 min,</td>
     <td>4-6 timer/uke</td>
     <td>U15 kun parårede båter.</td>
   </tr>
   <tr>
-    <td><pre><a href="https://github.com/digitnow/rodata/blob/main/TRENINGSNIVA-1.md">1</a></pre></td>
+    <td><pre><a href="https://github.com/digitnow/rodata/blob/main/TRENINGSNIVA-1.md">Nivå 1</a></pre></td>
     <td>Alle uansett alder.</td>
     <td>11+</td>
     <td>3 økter/uke</td>
@@ -84,7 +84,7 @@ Man kan også tenke på at først må man lære å ro (grunnleggende ferdigheter
 
 1 *Om modenhet: "Tidlig utviklede utøvere må ha annen påvirkning treningsmessig enn de som er sent utviklet. De sent utviklede utøverne må ha mye oppmerksomhet og andre utfordringer enn de tidlig utviklede. Konkurransedeltakelse i særlig målbare øvelser, slik som distanse på romaskin og racing i baner mot hverandre på vann i singelsculler kan oppleves demotiverende i visse perioder.*
 
-2 *antall økter for både rospesifikk aktivitet (C2, RP3, annen romaskin, roing på vann i forskjellige typer båter) og "cross"-trening; for yngre roere er det viktig med varierte aktivitetsformer, som løping, langrenn, sykling (ute og inne), svømming, ballspill osv.*
+2 *antall økter for rospesifikk aktivitet (C2, RP3, annen romaskin, roing på vann i forskjellige typer båter), men det er viktig med "cross"-trening for yngre roere med aktivitetsformer, som løping, langrenn, sykling (helst ute), svømming, ballspill osv.*
 
 3 *relativt høyt nivå av kompetanse, bra selvtillitt, god til å kommunisere i felleskapet, har sterk karakter/indre driv, og er selvgående/kreativ.*
 

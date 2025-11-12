@@ -69,7 +69,7 @@ Man kan også tenke på at først må man **lære å ro** (grunnleggende ferdigh
     <td>4-5 økter roing på vann eller roergo<br>1-2 styrkeøkter<br>1-2 sirkel eller annet</td>
     <td>På vann <75 min.<br> På land <90 min. (avhengig av intensitetssone; samme som på utviklingsnivå 2).</td>
     <td>7-10 timer</td>
-    <td>U16 og de som ikke har trent styrke systematisk før, bør fokusere på utholdende styrke eller styrke med egen kropsvekt. Introdusere fokus på selvstendighet, kosthold og adferd<sup>3</sup>.</td>
+    <td>De som ikke har trent styrke systematisk før, bør fokusere på utholdende styrke eller styrke med egen kropsvekt. Introdusere fokus på selvstendighet, kosthold og adferd<sup>3</sup>.</td>
   </tr>
   <tr>
     <td><pre><a href="https://github.com/digitnow/rodata/blob/main/TRENINGSNIVA-2.md">Nivå 2</a></pre></td>

@@ -15,6 +15,10 @@
 |🟣| Kunnskap og ferdigheter| Kjenner til roterminologien, sikkerhetsrutiner og passende påkledning tilpasset værforhold. |<br>🔹 lenke til routtrykk <br>🔹 lenke til råd om påkledning <br>🔹 lenke til generelle sikkerhetsbetraktninger (obs! disse bør utvikles i samarbeid med klubber osv. |
 |🟢| Etos<sup>etos</sup> og adferd | Viser grunnleggende forståelse av kulturen i romiljøet og kan reflektere over passende og upassende adferd. |<br>🔹 begynner å bli kjent med forhold i en roklubb, <br>🔹 viser selvtillit under roturer, <br>🔹 kommuniserer bra med flere klubbmedlemmer og deltar i dugnadsarbeid, <br>🔹 kjenner til nødvendige karaktertrekk for roing (generelt positiv innstilling; unngå klaging), <br>🔹 utviser en viss grad av selvstendighet/kreativitet|
 
+*rotak - fokus på prinsippet om "de mistede vinkler" og på sekvensen av anvendelse av muskelgrupper i en rosyklus, som forutsetter egen kroppsbevissthet*
+
+*etos - menes her som den karakteristiske ånden til en kultur, epoke eller et felleskap slik den manifesteres i dens holdninger og ambisjoner*
+
 ## Periodisering og treningsprogrammer
 Det er ikke nødvendig med detaljert periodisering for denne gruppen, men treningstider og materiell må allokeres. Det bør også utnevnes en gruppeansvarlig, som sender ut invitasjoner til tur osv. En kalender med relevante aktiviteter anbefales. Gruppelederen kan ha ansvar for å identifisere roere, som kan gå opp til nivå 2.
 

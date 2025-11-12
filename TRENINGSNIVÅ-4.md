@@ -40,6 +40,8 @@ Når det gjelder roferdigheter, så skal roeren kunne
 - å ha nok fleksibilitet i bekkenet får å kunne "svinge over" fra avslutningen av taket uten å kompensere før catch
 - (10 "roll ups" uten at årebladene er i berøring med vannflaten; fra nivå 3)
 
+## Referanser / nyttige lenker
+Robin Williams, 2020. https://www.youtube.com/@robinwilliams9957 sist sett 2025-11-12
 
 [Tilbake til hoveddokumentet](https://github.com/digitnow/rodata/blob/main/README.md)
 

@@ -1,3 +1,5 @@
+[Tilbake til hoveddokumentet](https://github.com/digitnow/rodata/blob/main/README.md)
+
 # Treningsnivå 1
 - Alle aldre (minimumalder 11+/eller etter modenhet)
 - 3 økter per uke (2 på vann og 1 på land mens åpent vann, 3 på land i vinterperioden)
@@ -30,3 +32,5 @@ Man kan delta på arrangement som fokuserer på håndtering av båt og årer (ro
 - https://www.youtube.com/watch?v=zQ82RYIFLN8 (rowing australia med noen øvelser, men dårlig videokvalitet)
 - https://www.youtube.com/watch?v=IVYTNZeWdWg (gammelt, 1985, men ganske konsist forklart med meget gode roere som eksempler)
 
+
+[Tilbake til hoveddokumentet](https://github.com/digitnow/rodata/blob/main/README.md)

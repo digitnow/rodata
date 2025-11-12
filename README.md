@@ -41,8 +41,7 @@ Man kan også tenke på at først må man lære å ro (grunnleggende ferdigheter
     <td>Kommentar</td>
   </tr>
   <tr>
-    https://github.com/digitnow/rodata/blob/main/TRENINGSNIVÅ-4.md
-    <td><pre><a href="https://github.com/digitnow/rodata/blob/main/TRENINGSNIVA-4.md">Nivå 4</a></pre></td>
+    <td><pre><a href="https://github.com/digitnow/rodata/blob/main/TRENINGSNIVÅ-4.md">Nivå 4</a></pre></td>
     <td>Klubbroere med sterke prestasjoner nasjonalt og kandidater til representasjon.</td>
     <td>17+/yngre hvis høy modenhet</td>
     <td>8-12 økter/uke</td>

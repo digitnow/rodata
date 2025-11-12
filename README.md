@@ -32,6 +32,7 @@ Hver trinn har 5 pilarer, som alle "vokser" med hvert nivå og har følgende bes
 |🟠| Kondisjon | Volumet og kvaliteten på treningen, som roeren trygt klarer å opprettholde. |
 |🟣| Kunnskap og ferdigheter | Fakta og informasjon som roere forventes å lære gjennom erfaring eller utdanning, og gjennom den erfaringen lære og forstå hvordan de skal anvende denne informasjonen. For eksempel, hvorfor skal man trene i forskjellige intensiteter og hvordan vet man i hvilken intensitet man trener i?|
 |🟢| Etos<sup>etos</sup> og adferd | Det er viktig at trenere samarbeider med roere for å bygge kompetanse, selvtillit, tilknytning, karakter og kreativitet. Innenfor denne pilaren vil roere lære å utvikle verdiene og atferden de trenger for å ta eierskap til rosporten, og bygge et positivt idrettsmiljø for alle som deltar. |
+
 *etos - menes her som den karakteristiske ånden til en kultur, epoke eller et felleskap slik den manifesteres i dens holdninger og ambisjoner*
 
 Man kan også tenke på at først må man lære å ro (grunnleggende ferdigheter), så kan man lære å trene (gjennomføring av spesifikke økter, konsentrasjon og iherdighet) og til slutt kan man begynne å lære å race. 

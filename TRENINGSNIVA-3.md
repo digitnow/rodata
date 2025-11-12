@@ -22,9 +22,11 @@ Kan begynne å periodisere noe. Dele året inn i 4 perioder:
 - "pre-season" (mars og april) og
 - regattasesongen (mai-september).
 
-Eksempel på treningsprog for "pre-season" (mars-april) 
+### Eksempel på treningsprog for "pre-season" (mars-april) 
 ![TP nivå 2 pre-season](https://github.com/digitnow/rodata/blob/main/docs/images/olafs-preseason-U17.png?raw=true)
 
+### Eksempel på treningsprog for regattasesongen (mai-september)
+...
 
 ## Aktiviteter
 Treningsmengden og roferdighetene er nå på et nivå som gjør at man kan delta på regattaer. Man kan begynne med nybegynnerklassen og så fortsette med noen regattaer i sin aldersgruppe. 

@@ -59,7 +59,7 @@ Man kan også tenke på at først må man **lære å ro** (grunnleggende ferdigh
     <td>3-10 økter roing på vann eller roergo<br>2-3 styrkeøkter<br>2-4 sirkel eller basis</td>
     <td>På vann <90 min.<br> På land <120 min. (varighet avhenger av intensitet). Helst ikke mer enn 3-4 roergometerøkter per uke om vinteren.</td>
     <td>10-15</td>
-    <td>Sterkere fokus på struktur i hverdagen, selvstendighet, kosthold og adferd<sup>2</sup>. Ønskelig med ordninger med skole / studiested.</td>
+    <td>Sterkere fokus på struktur i hverdagen, selvstendighet, kosthold og adferd. Ønskelig med ordninger med skole / studiested.</td>
   </tr>
   <tr>
     <td><pre><a href="https://github.com/digitnow/rodata/blob/main/TRENINGSNIVA-3.md">Nivå 3</a></pre></td>
@@ -79,7 +79,7 @@ Man kan også tenke på at først må man **lære å ro** (grunnleggende ferdigh
     <td>2-5 økter roing på vann eller roergo<br>1-2 på land (utholdenhetsaktivitet rundt en time, og samme som på utviklingsnivå 1).</td>
     <td>45-60 min,</td>
     <td>4-6 timer/uke</td>
-    <td>U15 kun parårede båter.</td>
+    <td>For U15 anbefalt trening på vann kun i parårede båter.</td>
   </tr>
   <tr>
     <td><pre><a href="https://github.com/digitnow/rodata/blob/main/TRENINGSNIVA-1.md">Nivå 1</a></pre></td>

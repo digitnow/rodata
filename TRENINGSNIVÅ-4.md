@@ -10,7 +10,7 @@ Formålet med dette trinnet er å utvikle en kompetent roer, som følger en års
 - 10-15 timer trening per uke (gjerne periodisert 10-13-15 eller lignende)
 - Under rospesifikk trening fokuset bør være på å utvikle robuste tak i en robåt (lenke til video)
 
-|  |Pilar | Kravbeskrivelse  | Konkrete krav |
+|  |Pilar | Kravbeskrivelse  | Konkrete krav for å begynne på neste nivå |
 | ---- | -------- | ------- | ---- |
 |🔴| Roferdigheter | Roer demonstrerer en høy kompetanse for de fleste roferdighetene<sup>srf</sup>.|🔹 lenke til video, f. eks. |
 |🔵| Atletisme | Øke prestasjoner fra treningnivå 3 |Flex: <br>🔹 sittende på gulvet kan nå x cm over sine tå <br>Styrke: <br>🔹 teknisk korrekt gjennomfører knebøy, ryggoppryll, kettlebel-sving osv. <br>Stabilitet: <br>🔹 kan holde forskjellige type planker i minst 3 minutter (hver stilling 60 sekunder) | 

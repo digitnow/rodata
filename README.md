@@ -22,7 +22,17 @@ I norsk roing har det vært brukt fire hovedtrinn i trappene (se "Utvikling av f
 - utviklingsperioden (5. - 8. treningsår, vanlig alder 17-20 år)
 - prestasjonsperioden (9. treningsår og oppover, minimumsalder 21 år)
 
-I denne veilederen blir det brukt en mer generell nivåklassifikasjon med 4 utviklingstrinn (inspirert av ["Rower Development Guide", 2017 fra British Rowing"](https://www.britishrowing.org/knowledge/rower-development/rower-development-guide/)). På det fjerde trinnet er roeren klar for elitesatsing med en langsiktig plan og en klar dedikasjon til trening og konkurranser. 
+I denne veilederen blir det brukt en mer generell nivåklassifikasjon med 4 utviklingstrinn (inspirert av ["Rower Development Guide", 2017 fra British Rowing"](https://www.britishrowing.org/knowledge/rower-development/rower-development-guide/)). På det fjerde trinnet er roeren klar for elitesatsing med en langsiktig plan og en klar dedikasjon til trening og konkurranser.
+
+Hver trinn har 5 pilarer, som alle "vokser" med hvert nivå og har følgende beskrivelse:
+| | Pilar | Beskrivelse |
+|--|--|--|
+|🔴| Roferdigheter | Evnen til å utføre rosyklus og være bevisst på sin egen kropp. Roferdighetene skal bidra til at roeren blir mer effektiv i sine bevegelser, noe som gjør at roeren blir mer selvsikker og i full kontroll av hele rosyklusen. |
+|🔵| Atletisme | Byggeklossene og de fysiske egenskapene som roere forventes å oppnå for å kunne utføre en korrekt og sikker rosyklus. Å jobbe med disse bør også bidra til å redusere risikoen for skader.|
+|🟠| Kondisjon | Volumet og kvaliteten på treningen, som roeren trygt klarer å opprettholde. |
+|🟣| Kunnskap og ferdigheter | Fakta og informasjon som roere forventes å lære gjennom erfaring eller utdanning, og gjennom den erfaringen lære og forstå hvordan de skal anvende denne informasjonen. For eksempel, hvorfor skal man trene i forskjellige intensiteter og hvordan vet man i hvilken intensitet man trener i?|
+|🟢| Etos<sup>etos</sup> og adferd | Det er viktig at trenere samarbeider med roere for å bygge kompetanse, selvtillit, tilknytning, karakter og kreativitet. Innenfor denne pilaren vil roere lære å utvikle verdiene og atferden de trenger for å ta eierskap til rosporten, og bygge et positivt idrettsmiljø for alle som deltar. |
+*etos - menes her som den karakteristiske ånden til en kultur, epoke eller et felleskap slik den manifesteres i dens holdninger og ambisjoner*
 
 Man kan også tenke på at først må man lære å ro (grunnleggende ferdigheter), så kan man lære å trene (gjennomføring av spesifikke økter, konsentrasjon og iherdighet) og til slutt kan man begynne å lære å race. 
 

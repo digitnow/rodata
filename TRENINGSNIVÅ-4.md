@@ -1,3 +1,5 @@
+[Tilbake til hoveddokumentet](https://github.com/digitnow/rodata/blob/main/README.md)
+
 # Utviklingsnivå 4
 Formålet med dette trinnet er å utvikle en kompetent roer, som følger en årsplan med perioder, spesifikke milepæl og klare målsettinger. Dette trinnet er det viktigste for utvikling av atletisme og kondisjon til et nivå, som gir muligheter for elitesatsing. Roer på dette nivå skal ha som mål å vinne relevante regattaer, men hovedfokuset bør fortsatt være på utvikling av roferdighter og læringsmetoder for å få en god forståelse om hvordan disse påvirker utvikling og prestasjoner. Fokuset skal også være på å lære fra sine erfaringer og ikke utelukkende på resultatet. Styrke- og utholdenhetstrening skal være fullt integrert i programmet for å sikre en lang karriere og en optimal kraftanvendelse i båt. 
 
@@ -35,5 +37,7 @@ Når det gjelder roferdigheter, så skal roeren kunne
 - å ta båten på vann ikke kun fra brygge, men også på andre steder (eller forklare hvordan man kunne ha gjort det)
 - å ha nok fleksibilitet i bekkenet får å kunne "svinge over" fra avslutningen av taket uten å kompensere før catch
 - (10 "roll ups" uten at årebladene er i berøring med vannflaten; fra nivå 3)
-- 
+
+
+[Tilbake til hoveddokumentet](https://github.com/digitnow/rodata/blob/main/README.md)
 

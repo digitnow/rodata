@@ -35,7 +35,7 @@ Hver trinn har 5 pilarer, som alle "vokser" med hvert nivå og har følgende bes
 
 *etos - menes her som den karakteristiske ånden til en kultur, epoke eller et felleskap slik den manifesteres i dens holdninger og ambisjoner*
 
-Man kan også tenke på at først må man lære å ro (grunnleggende ferdigheter), så kan man lære å trene (gjennomføring av spesifikke økter, konsentrasjon og iherdighet) og til slutt kan man begynne å lære å race. 
+Man kan også tenke på at først må man **lære å ro** (grunnleggende ferdigheter), så kan man **lære å trene** (gjennomføring av spesifikke økter, konsentrasjon og iherdighet) og etterhvert kan man begynne å **lære å race**. 
 
 <table>
   <tr>

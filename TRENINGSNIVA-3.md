@@ -9,7 +9,7 @@ Dette er hovedperioden i en roers utvikling og den vil være avgjørende om roer
 - 7-10 timer trening per uke
 - Kan begynne med styrketrening? (utvikle atletisme og utholdenhet) (lenke til video)
 
-|  |  |  |  |
+|  |Pilar | Kravbeskrivelse  | Konkrete krav for å begynne på neste nivå |
 | ---- | -------- | ------- | ---- |
 |🔴| Roferdigheter | Roer demonstrerer avanserte roferdighetene.|🔹 lenke til video, f. eks. |
 |🔵| Atletisme | Gå leksibilitet i forskjellige typer robåter, og god styrke  og stabilitet som støtte for utvikling a roferdigheter; kan gjennomføre avansert øvelser på vann.|Flex: <br>🔹 oversving <br>🔹  <br> Styrke: helst med egen vekt: <br>🔹 push-ups, <br>🔹 sit-ups, <br>🔹 hang-ups, <br>🔹 spensthopp, <br>🔹 hopp-med-hoppetau, <br>🔹 stående lengdehopp, <br>🔹 gjentatte lengdehopp <br>🔹 alle øvelser med flere repetisjoner enn på nivå 1 (må legge inn spesifikke tall her)| 

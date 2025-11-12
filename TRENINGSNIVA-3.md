@@ -16,11 +16,15 @@ Dette er hovedperioden i en roers utvikling og den vil være avgjørende om roer
 |🟢| Etos<sup>etos</sup> og adferd | Tar ansvar for egen trening og gjøremål i klubben. Etterstreber et "radiator"-adferd (i motsetning til et "sluk"-adferd).|
 
 ## Periodisering og treningsprogrammer
-Kan begynne å periodisere noe. Dele året inn i 4 perioder: 
+Kan begynne å periodisere. Dele året inn i 4 perioder: 
 - førjulsperiode (fra siste regatta til juletider),
 - vinterperiode (fra januar til uke 11 i mars),
 - "pre-season" (mars og april) og
 - regattasesongen (mai-september).
+
+Foreledre og eventuelt relevant kontakt på skolen kan involveres for å kartlegge andre aktivitetene utøveren skal delta på enn roing. På dette nivå skjer den viktigste læring om trening. "Lære å trene" bør være hovedfokuset, og helst ikke overfokusere på prestasjonskrav (regattaer, tester).
+
+I forslag for programmer er det lagt inn økter basert på prioritet, dvs. for å kunne nå neste utviklingsnivå, så er det noen minimumskrav i form av økter med prioritet 1.
 
 ### Eksempel på treningsprog for "pre-season" (mars-april) 
 ![TP nivå 2 pre-season](https://github.com/digitnow/rodata/blob/main/docs/images/olafs-preseason-U17.png?raw=true)

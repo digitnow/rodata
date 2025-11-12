@@ -1,3 +1,5 @@
+[Tilbake til hoveddokumentet](https://github.com/digitnow/rodata/blob/main/README.md)
+
 # Treningsnivå 2
 - Alle aldre (minimumalder 13+/eller etter modenhet)
 - opp til 5 rospesifikke økter per uke (3 på vann og 1 på land mens åpent vann, 4 på land i vinterperioden)
@@ -36,4 +38,4 @@ Se regattakalender.
 - https://www.youtube.com/watch?v=zQ82RYIFLN8 (rowing australia med noen øvelser, men dårlig videokvalitet)
 - https://www.youtube.com/watch?v=IVYTNZeWdWg (gammelt, 1985, men ganske konsist forklart med meget gode roere som eksempler)
 
-
+[Tilbake til hoveddokumentet](https://github.com/digitnow/rodata/blob/main/README.md)

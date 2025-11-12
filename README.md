@@ -1,4 +1,4 @@
-# rodata
+# U19 program - utnyttelse av potensialet
 Utviklingsveileder for roing
 
 "Hvis det i sannhet skal lykkes å føre et menneske hen til et bestemt sted, må man først passe på å finne ham der hvor han er og begynne der. Dette er hemmeligheten i all hjelpekunst." Søren Kierkegaard

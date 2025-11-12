@@ -12,11 +12,13 @@ Formålet med dette trinnet er å utvikle en kompetent roer, som følger en års
 
 |  | Pilar | Generell beskrivelse | Konkrete krav for å begynne på neste nivå |
 | ---- | -------- | ------- | ---- |
-|🔴| Roferdigheter | Roer demonstrerer en høy kompetanse for de fleste roferdighetene<sup>srf</sup>.|🔹 lenke til video, f. eks. |
+|🔴| Roferdigheter | Roer demonstrerer en høy kompetanse for de fleste roferdighetene.|🔹 lenke til video, f. eks. |
 |🔵| Atletisme | Øke prestasjoner fra treningnivå 3 |Flex: <br>🔹 sittende på gulvet kan nå x cm over sine tå <br>Styrke: <br>🔹 teknisk korrekt gjennomfører knebøy, ryggoppryll, kettlebel-sving osv. <br>Stabilitet: <br>🔹 kan holde forskjellige type planker i minst 3 minutter (hver stilling 60 sekunder) | 
 |🟠| Kondisjon | Skal være på et nivå som gir roeren mulighet til å prestere optimalt i rokonkurranser på vann. |<br>🔹 kan ro kontinuerlig med spesifikk roteknikk opp til 90 minutter sammenhengende <br>🔹 kan gjennomføre intervaller i soner I3-5 med spesifikk teknikk |
 |🟣| Kunnskap og ferdigheter| Skal kunne trene selvstendig ved å følge instruksjoner fra trener. |<br>🔹 skal klare å holde fokus på arbeidsoppgaver 20-30 minutter av gangen <br>🔹 skal kunne ta egen avgjørelser for å improvisere under en treningsøkt <br>🔹 skal kunne dokumentere trenignsøkt detaljert (selvopplevd anstrengelse, pulsdata, eventuelt data fra app-er for RP3, C2, ergosykkel) <br>🔹 skal regelmessig dokumentere søvnkvalitet og dagsform  <br>🔹  skal kunne sammen med trener identifisere fokuspunkter og evaluere resultater |
 |🟢| Etos<sup>etos</sup> og adferd | Viser adferd som er viktig for en eliteutøver. |<br>🔹 viser positiv innstilling i treningsgrupper <br>🔹 ... <br>🔹 har en forståelse for uttaksprosesser <br>🔹 ... |
+
+*etos - menes her som den karakteristiske ånden til en kultur, epoke eller et felleskap slik den manifesteres i dens holdninger og ambisjoner*
 
 ## Concept 2 Standard for 2k og 5k
 ||2k|2k |5k |5k| 

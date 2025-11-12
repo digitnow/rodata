@@ -17,6 +17,8 @@ Dette er hovedperioden i en roers utvikling og den vil være avgjørende om roer
 |🟣| Kunnskap og ferdigheter| Utvikler kunnskap for bli mer uavhengig (kan begynne å gjennomføre enkelte økter selv) |<br>🔹 gjennomfører et program med prioriterte økter |
 |🟢| Etos<sup>etos</sup> og adferd | Tar ansvar for egen trening og gjøremål i klubben. Etterstreber et "radiator"-adferd (i motsetning til et "sluk"-adferd).|
 
+*etos - menes her som den karakteristiske ånden til en kultur, epoke eller et felleskap slik den manifesteres i dens holdninger og ambisjoner*
+
 ## Periodisering og treningsprogrammer
 Kan begynne å periodisere. Dele året inn i 4 perioder: 
 - førjulsperiode (fra siste regatta til juletider),

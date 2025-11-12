@@ -110,6 +110,8 @@ Man kan også tenke på at først må man **lære å ro** (grunnleggende ferdigh
 
 
 ## Utvikling av treningsprogrammer
+Før du leser videre er det anbefalt å lese gjennom en introduksjon til treningsplanlegging skrevet av en olympisk mester (her kommer lenken til en tekst). 
+
 ### Årsplan
 En systematisk tenkning rundt utvikling av en utøver innebærer å lage langtidsplaner. De kan være mer eller mindre detaljerte, men man må etterstrebe å lage en plan for å ha et utgangspunt for justeringer når planen skal realiseres. Med en plan er det også enklere å evaluere resultater og justere i neste omgang (neste år eller flere år, for eksemplel. Se et eksempel på årsplan i bilde under.
 

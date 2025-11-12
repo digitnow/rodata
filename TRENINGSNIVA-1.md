@@ -7,7 +7,7 @@
 - 2-3 timer trening per uke
 - Under rospesifikk trening fokuset bør være på å utvikle grunnleggende ferdigheter i en robåt (lenke til video)
 
-|  |  |  |  |
+|  |Pilar | Kravbeskrivelse  | Konkrete krav for å begynne på neste nivå |
 | ---- | -------- | ------- | ---- |
 |🔴| Roferdigheter | Roer er sikker på å komme seg inn og ut av båt. Roer demonstrerer de enkleste roferdighetene.|🔹 lenke til video, f. eks. |
 |🔵| Atletisme | Grunnleggende fleksibilitet, styrke  og stabilitet (balansere på medisinball, kan holde planker i 45-60 sekunder) som støtte for utvikling a roferdigheter, kan vise korrekt<sup>rotak</sup> bevegelsesmønster for roing og kjenner til de vanligste utfordringene under gjennomføring av hele syklus av et rotak.|Flex: <br>🔹 nå tå/gulvet med fingertuppene med lite bøyde bein, <br>🔹 ligge med korsryggen i bakken og løfte rette bein fra gulvet <br> Styrke: helst med egen vekt: <br>🔹 push-ups, <br>🔹 sit-ups, <br>🔹 hang-ups, <br>🔹 spensthopp, <br>🔹 hopp-med-hoppetau, <br>🔹 stående lengdehopp, <br>🔹 gjentatte lengdehopp | 

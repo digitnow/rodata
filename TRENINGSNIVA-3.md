@@ -1,3 +1,5 @@
+[Tilbake til hoveddokumentet](https://github.com/digitnow/rodata/blob/main/README.md)
+
 # Treningsnivå 3
 Dette er hovedperioden i en roers utvikling og den vil være avgjørende om roeren vil opprettholde sin interesse for rosporten. Treningsbelasting bør være variert og man bør observerer utviklingen systematisk. Yngre utøver vil oppleve pubertiteten og treneren bør være oppmerksom på det. Mer avanserte tekniske krav på vann og en optimal utholdenhets trening både på vann og land må læres. Fokuset på talentutvikling eller talentidentifisering.
 
@@ -40,3 +42,6 @@ Se regattakalender.
 
 
 ## Relevante lenker
+
+
+[Tilbake til hoveddokumentet](https://github.com/digitnow/rodata/blob/main/README.md)

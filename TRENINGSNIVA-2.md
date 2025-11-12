@@ -7,7 +7,7 @@
 - 4-6 timer trening per uke
 - Fokuset er på roferdigheter og man begynner å lære å trene (utvikle atletisme og utholdenhet) (lenke til video)
 
-|  |  |  |  |
+|  |Pilar | Kravbeskrivelse  | Konkrete krav for å begynne på neste nivå |
 | ---- | -------- | ------- | ---- |
 |🔴| Roferdigheter | Roer er helt sikker på å komme seg inn og ut av båt. Roer demonstrerer de mer avanserte roferdighetene.|🔹 lenke til video, f. eks. |
 |🔵| Atletisme | Grunnleggende fleksibilitet, styrke  og stabilitet (balansere på medisinball, kan holde planker i 45-60 sekunder) som støtte for utvikling a roferdigheter; kan vise korrekt<sup>rotak</sup> bevegelsesmønster for roing og kjenner til de vanligste utfordringene under gjennomføring av hele syklus av et rotak.|Flex: <br>🔹 gjennomføre basisøkter (fokus på rygg/buk/mage med kvalitet <br>🔹  <br> Styrke: helst med egen vekt: <br>🔹 push-ups, <br>🔹 sit-ups, <br>🔹 hang-ups, <br>🔹 spensthopp, <br>🔹 hopp-med-hoppetau, <br>🔹 stående lengdehopp, <br>🔹 gjentatte lengdehopp <br>🔹 alle øvelser med flere repetisjoner enn på nivå 1 (må legge inn spesifikke tall her)| 

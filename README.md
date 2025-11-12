@@ -151,7 +151,7 @@ Design av et ukeprogram kan ta for seg forskjellige aspekter / dimensjoner:
 - "Utvikling av fysiske kvaliteter i roing, 2. utgave"
 - "Olafs treningsprogrammer, 2024"
 - "Janis årsplaner"
-- "Fredriks programer"
+- "Fredriks programmer"
 - [Baltic Cup](https://hjalmsjoarena.se/regulations.html)
 - [Coupe de Jounesse](https://www.couperowing.org/)
 

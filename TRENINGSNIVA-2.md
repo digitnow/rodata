@@ -15,6 +15,9 @@
 |🟣| Kunnskap og ferdigheter| Utvikler kunnskap for bli mer uavhengig (kan begynne å gjennomføre enkelte økter selv) |<br>🔹 gjennomfører et program med prioriterte økter |
 |🟢| Etos<sup>etos</sup> og adferd | Tar ansvar for egen trening og gjøremål i klubben. Etterstreber et "radiator"-adferd (i motsetning til et "sluk"-adferd).|
 
+*rotak - fokus på prinsippet om "de mistede vinkler" og på sekvensen av anvendelse av muskelgrupper i en rosyklus, som forutsetter egen kroppsbevissthet*
+*etos - menes her som den karakteristiske ånden til en kultur, epoke eller et felleskap slik den manifesteres i dens holdninger og ambisjoner*
+
 ## Periodisering og treningsprogrammer
 Kan begynne å periodisere noe. Dele året inn i 4 perioder: 
 - førjulsperiode (fra siste regatta til juletider),

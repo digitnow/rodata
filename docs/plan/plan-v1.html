@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Årsplan 2025 - Roing</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Calibri, Arial, sans-serif;
+            font-size: 11px;
+            background-color: #f0f0f0;
+            padding: 20px;
+        }
+
+        .container {
+            background-color: white;
+            max-width: 100%;
+            overflow-x: auto;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            background-color: white;
+        }
+
+        td, th {
+            border: 1px solid #d0d0d0;
+            padding: 4px 6px;
+            text-align: left;
+            vertical-align: middle;
+            font-weight: normal;
+        }
+
+        /* Rad 1 - Tittel */
+        .title-row td {
+            font-size: 14px;
+            font-weight: bold;
+            padding: 8px;
+        }
+
+        /* Rad 3 - Perioder */
+        .period-row {
+            height: 30px;
+        }
+
+        .period-avkobling {
+            background-color: #0099FF;
+            color: white;
+            text-align: center;
+            vertical-align: middle;
+            font-size: 9px;
+        }
+
+        .period-tilvending {
+            background-color: #0066CC;
+            color: white;
+            text-align: center;
+            vertical-align: middle;
+            font-size: 9px;
+        }
+
+        .period-ressurs {
+            background-color: #FFFF66;
+            color: black;
+            text-align: center;
+            vertical-align: middle;
+            font-size: 9px;
+        }
+
+        .period-konkurranseforberedende {
+            background-color: #FF6633;
+            color: #FFFF00;
+            text-align: center;
+            vertical-align: middle;
+            font-size: 9px;
+        }
+
+        .period-konkurranseperiode {
+            background-color: #DC2300;
+            color: #F3F3F3;
+            text-align: center;
+            vertical-align: middle;
+            font-size: 8px;
+        }
+
+        /* Rad 4 - Måneder */
+        .month-row {
+            height: 25px;
+        }
+
+        .month-cell {
+            background-color: white;
+            color: black;
+            text-align: center;
+            vertical-align: middle;
+            font-size: 8px;
+            font-weight: normal;
+        }
+
+        /* Aktivitetsrader */
+        .activity-label {
+            background-color: white;
+            font-size: 8px;
+            padding-left: 4px;
+        }
+
+        .activity-cell {
+            background-color: #D9D9D9;
+            text-align: center;
+            font-size: 7px;
+            color: black;
+        }
+
+        .activity-cell-blue {
+            background-color: #CFE2F3;
+            text-align: left;
+            font-size: 7px;
+            color: black;
+            padding-left: 4px;
+        }
+
+        /* Testperiode celler */
+        .test-period {
+            background-color: white;
+            border: 1px solid #000;
+            font-size: 7px;
+            padding: 2px 4px;
+        }
+
+        /* Tomme celler */
+        .empty-cell {
+            background-color: white;
+            border: 1px solid #d0d0d0;
+        }
+
+        /* Seksjonsoverskrifter */
+        .section-header {
+            font-weight: bold;
+            background-color: #f0f0f0;
+            padding: 4px;
+        }
+
+        /* Responsive */
+        @media print {
+            body {
+                background-color: white;
+                padding: 0;
+            }
+            .container {
+                box-shadow: none;
+            }
+        }
+
+        @media screen and (max-width: 768px) {
+            body {
+                padding: 5px;
+            }
+            td, th {
+                font-size: 9px;
+                padding: 2px 3px;
+            }
+        }
+
+        /* Spesifikke cellebredder for å matche Excel */
+        .col-a { width: 80px; }
+        .col-b { width: 200px; }
+        .col-month { width: 30px; min-width: 30px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <table>
+            <!-- Rad 1: Tittel -->
+            <tr class="title-row">
+                <td colspan="2">ÅRSPLAN 2025</td>
+                <td colspan="50"></td>
+            </tr>
+
+            <!-- Rad 2: Tom rad -->
+            <tr>
+                <td class="col-a"></td>
+                <td class="col-b">Periode</td>
+                <td colspan="50"></td>
+            </tr>
+
+            <!-- Rad 3: Perioder -->
+            <tr class="period-row">
+                <td></td>
+                <td>Periode</td>
+                <td colspan="3" class="period-avkobling">Avkobling</td>
+                <td colspan="4" class="period-tilvending">Tilvending</td>
+                <td colspan="17" class="period-ressurs">Ressursperiode</td>
+                <td colspan="9" class="period-konkurranseforberedende">Konkurranseforberedende</td>
+                <td colspan="20" class="period-konkurranseperiode">Konkurranseperiode</td>
+            </tr>
+
+            <!-- Rad 4: Måneder -->
+            <tr class="month-row">
+                <td></td>
+                <td></td>
+                <td colspan="4" class="month-cell">OKTOBER</td>
+                <td colspan="4" class="month-cell">NOVEMBER</td>
+                <td colspan="5" class="month-cell">DESEMBER</td>
+                <td colspan="4" class="month-cell">JANUAR</td>
+                <td colspan="4" class="month-cell">FEBRUAR</td>
+                <td colspan="4" class="month-cell">MARS</td>
+                <td colspan="5" class="month-cell">APRIL</td>
+                <td colspan="4" class="month-cell">MAI</td>
+                <td colspan="5" class="month-cell">JUNI</td>
+                <td colspan="4" class="month-cell">JULI</td>
+                <td colspan="5" class="month-cell">AUGUST</td>
+                <td colspan="4" class="month-cell">SEPTEMBER</td>
+            </tr>
+
+            <!-- Rad 5: Ukenummer eller datoer -->
+            <tr>
+                <td></td>
+                <td></td>
+                <!-- Oktober -->
+                <td class="col-month">1</td>
+                <td class="col-month">2</td>
+                <td class="col-month">3</td>
+                <td class="col-month">4</td>
+                <!-- November -->
+                <td class="col-month">5</td>
+                <td class="col-month">6</td>
+                <td class="col-month">7</td>
+                <td class="col-month">8</td>
+                <!-- Desember -->
+                <td class="col-month">9</td>
+                <td class="col-month">10</td>
+                <td class="col-month">11</td>
+                <td class="col-month">12</td>
+                <td class="col-month">13</td>
+                <!-- Januar -->
+                <td class="col-month">14</td>
+                <td class="col-month">15</td>
+                <td class="col-month">16</td>
+                <td class="col-month">17</td>
+                <!-- Februar -->
+                <td class="col-month">18</td>
+                <td class="col-month">19</td>
+                <td class="col-month">20</td>
+                <td class="col-month">21</td>
+                <!-- Mars -->
+                <td class="col-month">22</td>
+                <td class="col-month">23</td>
+                <td class="col-month">24</td>
+                <td class="col-month">25</td>
+                <!-- April -->
+                <td class="col-month">26</td>
+                <td class="col-month">27</td>
+                <td class="col-month">28</td>
+                <td class="col-month">29</td>
+                <td class="col-month">30</td>
+                <!-- Mai -->
+                <td class="col-month">31</td>
+                <td class="col-month">32</td>
+                <td class="col-month">33</td>
+                <td class="col-month">34</td>
+                <!-- Juni -->
+                <td class="col-month">35</td>
+                <td class="col-month">36</td>
+                <td class="col-month">37</td>
+                <td class="col-month">38</td>
+                <td class="col-month">39</td>
+                <!-- Juli -->
+                <td class="col-month">40</td>
+                <td class="col-month">41</td>
+                <td class="col-month">42</td>
+                <td class="col-month">43</td>
+                <!-- August -->
+                <td class="col-month">44</td>
+                <td class="col-month">45</td>
+                <td class="col-month">46</td>
+                <td class="col-month">47</td>
+                <td class="col-month">48</td>
+                <!-- September -->
+                <td class="col-month">49</td>
+                <td class="col-month">50</td>
+                <td class="col-month">51</td>
+                <td class="col-month">52</td>
+            </tr>
+
+            <!-- Rad 6: Tom rad -->
+            <tr>
+                <td colspan="54" style="height: 10px;"></td>
+            </tr>
+
+            <!-- KLUBB/NR Seksjoner -->
+            <tr>
+                <td class="activity-label">KLUBB/NR</td>
+                <td class="activity-label">Representasjons</td>
+                <td colspan="52"></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label">KLUBB/NR</td>
+                <td class="activity-label">Utenlandsk</td>
+                <td colspan="3"></td>
+                <td class="activity-cell">HoC</td>
+                <td colspan="47"></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label">NR</td>
+                <td class="activity-label">Testløp / rangeringsløp vann</td>
+                <td></td>
+                <td class="activity-cell">TLV1</td>
+                <td colspan="50"></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label">NR</td>
+                <td class="activity-label">Testløp / rangering romaskin</td>
+                <td colspan="4"></td>
+                <td colspan="5" class="test-period">Testperiode 1</td>
+                <td colspan="10"></td>
+                <td colspan="5" class="test-period">Testperiode 2</td>
+                <td colspan="27"></td>
+            </tr>
+
+            <!-- Tom rad -->
+            <tr>
+                <td colspan="54" style="height: 10px;"></td>
+            </tr>
+
+            <!-- KLUBB Samlinger -->
+            <tr>
+                <td class="activity-label">KLUBB</td>
+                <td class="activity-label">Samlinger</td>
+                <td colspan="52"></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label">NR</td>
+                <td class="activity-label">Samlinger / hospitering U23</td>
+                <td colspan="9"></td>
+                <td class="activity-cell-blue">NR/Hosp</td>
+                <td colspan="42"></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label">NR</td>
+                <td class="activity-label">Samling U19 program</td>
+                <td colspan="12"></td>
+                <td class="activity-cell">RjS</td>
+                <td colspan="39"></td>
+            </tr>
+
+            <tr>
+                <td></td>
+                <td class="activity-label">Frister</td>
+                <td colspan="6"></td>
+                <td class="activity-cell">TP1</td>
+                <td></td>
+                <td class="activity-cell">S1 19.11</td>
+                <td colspan="3"></td>
+                <td class="activity-cell">NMe</td>
+                <td colspan="2"></td>
+                <td class="activity-cell">TP2</td>
+                <td colspan="35"></td>
+            </tr>
+
+            <!-- Tom rad -->
+            <tr>
+                <td colspan="54" style="height: 10px;"></td>
+            </tr>
+
+            <!-- Forklaringer -->
+            <tr>
+                <td></td>
+                <td></td>
+                <td class="activity-label">TLV1</td>
+                <td colspan="2"></td>
+                <td colspan="20" class="activity-label">Hvert annet år Vest/Øst fra høst 2026</td>
+                <td colspan="29"></td>
+            </tr>
+
+            <tr>
+                <td></td>
+                <td></td>
+                <td class="activity-label">TPn</td>
+                <td colspan="2"></td>
+                <td colspan="20" class="activity-label">Testperiode n = 1,2,3</td>
+                <td colspan="29"></td>
+            </tr>
+
+            <!-- Tom rad -->
+            <tr>
+                <td colspan="54" style="height: 15px;"></td>
+            </tr>
+
+            <!-- U19/U23 Seksjon -->
+            <tr>
+                <td></td>
+                <td class="section-header">U19/U23</td>
+                <td colspan="52"></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label">KLUBB</td>
+                <td class="activity-label">NASJONALT</td>
+                <td colspan="4"></td>
+                <td colspan="5" class="test-period">Testperiode 1</td>
+                <td colspan="10"></td>
+                <td colspan="5" class="test-period">Testperiode 2</td>
+                <td colspan="27"></td>
+            </tr>
+
+            <!-- Tom rad -->
+            <tr>
+                <td colspan="54" style="height: 5px;"></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label">KLUBB/NR</td>
+                <td class="activity-label">U19 NORDISK</td>
+                <td colspan="4"></td>
+                <td colspan="5" class="test-period">Testperiode 1</td>
+                <td colspan="10"></td>
+                <td colspan="5" class="test-period">Testperiode 2</td>
+                <td colspan="27"></td>
+            </tr>
+
+            <!-- Tom rad -->
+            <tr>
+                <td colspan="54" style="height: 5px;"></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label">KLUBB/NR</td>
+                <td class="activity-label">U19 NORDISK, CdJ/JVM</td>
+                <td colspan="52"></td>
+            </tr>
+
+            <!-- Tom rad -->
+            <tr>
+                <td colspan="54" style="height: 5px;"></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label">KLUBB/NR</td>
+                <td class="activity-label">U18 BALTIC CUP</td>
+                <td colspan="4"></td>
+                <td colspan="5" class="test-period">Testperiode 1</td>
+                <td colspan="10"></td>
+                <td colspan="5" class="test-period">Testperiode 2</td>
+                <td colspan="27"></td>
+            </tr>
+
+            <!-- Tom rad -->
+            <tr>
+                <td colspan="54" style="height: 5px;"></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label">KLUBB/NR</td>
+                <td class="activity-label">U23</td>
+                <td colspan="4"></td>
+                <td colspan="48" class="test-period">Testperiode (alle testperioder eller innsendte 2k/5k/6k resultater fra utlandet) --------></td>
+            </tr>
+
+            <tr>
+                <td></td>
+                <td></td>
+                <td colspan="24"></td>
+                <td colspan="5" class="activity-cell-blue">hospitering</td>
+                <td colspan="25"></td>
+            </tr>
+
+        </table>
+    </div>
+
+    <script>
+        // Print-funksjonalitet
+        document.addEventListener('keydown', function(e) {
+            if (e.ctrlKey && e.key === 'p') {
+                e.preventDefault();
+                window.print();
+            }
+        });
+    </script>
+</body>
+</html>

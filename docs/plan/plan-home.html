@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Årsplan 2025/2026 - Roing</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Calibri', 'Arial', sans-serif;
+            background-color: #f5f5f5;
+            padding: 20px;
+        }
+
+        .container {
+            background-color: white;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            overflow-x: auto;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            font-size: 10px;
+        }
+
+        td, th {
+            border: 1px solid #d0d0d0;
+            padding: 4px 6px;
+            text-align: center;
+            vertical-align: middle;
+            white-space: nowrap;
+            position: relative;
+        }
+
+        /* Tittel */
+        .title-row td {
+            font-size: 18px;
+            font-weight: bold;
+            text-align: left;
+            padding: 10px;
+            background-color: white;
+            border: none;
+        }
+
+        /* Periode-rad */
+        .period-row td {
+            font-weight: bold;
+            font-size: 11px;
+        }
+
+        .period-avkobling {
+            background-color: #0099FF;
+            color: white;
+        }
+
+        .period-tilvending {
+            background-color: #0066CC;
+            color: white;
+        }
+
+        .period-ressurs {
+            background-color: #FFFF66;
+            color: black;
+        }
+
+        .period-konkurranseforberedende {
+            background-color: #FF6633;
+            color: white;
+        }
+
+        .period-konkurranseperiode {
+            background-color: #DC2300;
+            color: white;
+        }
+
+        /* Måned-rad */
+        .month-row td {
+            font-weight: bold;
+            font-size: 9px;
+            background-color: #E7E6E6;
+        }
+
+        /* Aktivitets-celler */
+        .activity-label {
+            text-align: left;
+            font-weight: bold;
+            background-color: #F2F2F2;
+        }
+
+        .activity-cell {
+            font-size: 8px;
+            background-color: white;
+            cursor: pointer;
+        }
+
+        .activity-cell-blue {
+            font-size: 8px;
+            background-color: #CFE2F3;
+            cursor: pointer;
+        }
+
+        .activity-cell-yellow {
+            font-size: 8px;
+            background-color: #FFF2CC;
+            cursor: pointer;
+        }
+
+        .activity-cell-gray {
+            font-size: 8px;
+            background-color: #D9D9D9;
+            cursor: pointer;
+        }
+
+        .activity-cell-pink {
+            font-size: 8px;
+            background-color: #EAD1DC;
+            cursor: pointer;
+        }
+
+        .activity-cell-purple {
+            font-size: 8px;
+            background-color: #A64D79;
+            color: white;
+            cursor: pointer;
+        }
+
+        .test-period {
+            font-size: 8px;
+            background-color: white;
+            border: 2px solid #000;
+            cursor: pointer;
+        }
+
+        .section-header {
+            font-weight: bold;
+            font-size: 12px;
+            text-align: left;
+            background-color: #E7E6E6;
+        }
+
+        /* Lenker */
+        .activity-link {
+            color: inherit;
+            text-decoration: underline;
+            text-decoration-style: dotted;
+        }
+
+        .activity-link:hover {
+            text-decoration-style: solid;
+        }
+
+        /* Tooltip */
+        .tooltip {
+            position: relative;
+            display: inline-block;
+        }
+
+        .tooltip .tooltiptext {
+            visibility: hidden;
+            width: 200px;
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            border-radius: 6px;
+            padding: 8px;
+            position: absolute;
+            z-index: 1000;
+            bottom: 125%;
+            left: 50%;
+            margin-left: -100px;
+            opacity: 0;
+            transition: opacity 0.3s;
+            font-size: 11px;
+            white-space: normal;
+        }
+
+        .tooltip .tooltiptext::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: #333 transparent transparent transparent;
+        }
+
+        .tooltip:hover .tooltiptext {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        /* Mobil tooltip (touch-support) */
+        .tooltip.active .tooltiptext {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        /* Kolonne-bredder */
+        .col-a { width: 80px; min-width: 80px; }
+        .col-b { width: 200px; min-width: 200px; }
+        .col-week { width: 60px; min-width: 60px; font-size: 7px; }
+
+        /* Responsive */
+        @media print {
+            body {
+                background-color: white;
+                padding: 0;
+            }
+            .container {
+                box-shadow: none;
+            }
+            .tooltiptext {
+                display: none;
+            }
+        }
+
+        @media screen and (max-width: 768px) {
+            body {
+                padding: 5px;
+            }
+            td, th {
+                font-size: 8px;
+                padding: 2px 3px;
+            }
+            .col-week {
+                font-size: 6px;
+            }
+        }
+    </style>
+    <script>
+        // Mobil tooltip-støtte
+        document.addEventListener('DOMContentLoaded', function() {
+            const tooltips = document.querySelectorAll('.tooltip');
+            tooltips.forEach(tooltip => {
+                tooltip.addEventListener('click', function(e) {
+                    // Toggle active class for mobile
+                    this.classList.toggle('active');
+                    e.stopPropagation();
+                });
+            });
+            
+            // Lukk tooltip ved klikk utenfor
+            document.addEventListener('click', function() {
+                tooltips.forEach(tooltip => {
+                    tooltip.classList.remove('active');
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+    <div class="container">
+        <ul>
+            <a href="https://digitnow.github.io/rodata/plan/plan-v1.html">Plan versjon 1</a>
+            <a href="https://digitnow.github.io/rodata/plan/plan-v2.html">Plan versjon 2</a>
+            <a href="https://digitnow.github.io/rodata/plan/plan-v3.html">Plan versjon 3</a>
+            <a href="https://digitnow.github.io/rodata/plan/plan-v4.html">Plan versjon 4</a>
+        </ul>
+    </div>
+</body>
+</html>

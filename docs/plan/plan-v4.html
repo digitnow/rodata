@@ -1,0 +1,1620 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Årsplan 2025/2026 - Roing</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Calibri', 'Arial', sans-serif;
+            background-color: #f5f5f5;
+            padding: 20px;
+        }
+
+        .container {
+            background-color: white;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            overflow-x: auto;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            font-size: 10px;
+        }
+
+        td, th {
+            border: 1px solid #d0d0d0;
+            padding: 4px 6px;
+            text-align: center;
+            vertical-align: middle;
+            white-space: nowrap;
+            position: relative;
+        }
+
+        /* Tittel */
+        .title-row td {
+            font-size: 18px;
+            font-weight: bold;
+            text-align: left;
+            padding: 10px;
+            background-color: white;
+            border: none;
+        }
+
+        /* Periode-rad */
+        .period-row td {
+            font-weight: bold;
+            font-size: 11px;
+        }
+
+        .period-avkobling {
+            background-color: #0099FF;
+            color: white;
+        }
+
+        .period-tilvending {
+            background-color: #0066CC;
+            color: white;
+        }
+
+        .period-ressurs {
+            background-color: #FFFF66;
+            color: black;
+        }
+
+        .period-konkurranseforberedende {
+            background-color: #FF6633;
+            color: white;
+        }
+
+        .period-konkurranseperiode {
+            background-color: #DC2300;
+            color: white;
+        }
+
+        /* Måned-rad */
+        .month-row td {
+            font-weight: bold;
+            font-size: 9px;
+            background-color: #E7E6E6;
+        }
+
+        /* Aktivitets-celler */
+        .activity-label {
+            text-align: left;
+            font-weight: bold;
+            background-color: #F2F2F2;
+        }
+
+        .activity-cell {
+            font-size: 8px;
+            background-color: white;
+            cursor: pointer;
+        }
+
+        .activity-cell-blue {
+            font-size: 8px;
+            background-color: #CFE2F3;
+            cursor: pointer;
+        }
+
+        .activity-cell-yellow {
+            font-size: 8px;
+            background-color: #FFF2CC;
+            cursor: pointer;
+        }
+
+        .activity-cell-gray {
+            font-size: 8px;
+            background-color: #D9D9D9;
+            cursor: pointer;
+        }
+
+        .activity-cell-pink {
+            font-size: 8px;
+            background-color: #EAD1DC;
+            cursor: pointer;
+        }
+
+        .activity-cell-purple {
+            font-size: 8px;
+            background-color: #A64D79;
+            color: white;
+            cursor: pointer;
+        }
+
+        .test-period {
+            font-size: 8px;
+            background-color: white;
+            border: 2px solid #000;
+            cursor: pointer;
+        }
+
+        .section-header {
+            font-weight: bold;
+            font-size: 12px;
+            text-align: left;
+            background-color: #E7E6E6;
+        }
+
+        /* Lenker */
+        .activity-link {
+            color: inherit;
+            text-decoration: underline;
+            text-decoration-style: dotted;
+        }
+
+        .activity-link:hover {
+            text-decoration-style: solid;
+        }
+
+        /* Tooltip */
+        .tooltip {
+            position: relative;
+            display: inline-block;
+        }
+
+        .tooltip .tooltiptext {
+            visibility: hidden;
+            width: 200px;
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            border-radius: 6px;
+            padding: 8px;
+            position: absolute;
+            z-index: 1000;
+            bottom: 125%;
+            left: 50%;
+            margin-left: -100px;
+            opacity: 0;
+            transition: opacity 0.3s;
+            font-size: 11px;
+            white-space: normal;
+        }
+
+        .tooltip .tooltiptext::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: #333 transparent transparent transparent;
+        }
+
+        .tooltip:hover .tooltiptext {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        /* Mobil tooltip (touch-support) */
+        .tooltip.active .tooltiptext {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        /* Kolonne-bredder */
+        .col-a { width: 80px; min-width: 80px; }
+        .col-b { width: 200px; min-width: 200px; }
+        .col-week { width: 60px; min-width: 60px; font-size: 7px; }
+
+        /* Responsive */
+        @media print {
+            body {
+                background-color: white;
+                padding: 0;
+            }
+            .container {
+                box-shadow: none;
+            }
+            .tooltiptext {
+                display: none;
+            }
+        }
+
+        @media screen and (max-width: 768px) {
+            body {
+                padding: 5px;
+            }
+            td, th {
+                font-size: 8px;
+                padding: 2px 3px;
+            }
+            .col-week {
+                font-size: 6px;
+            }
+        }
+    </style>
+    <script>
+        // Mobil tooltip-støtte
+        document.addEventListener('DOMContentLoaded', function() {
+            const tooltips = document.querySelectorAll('.tooltip');
+            tooltips.forEach(tooltip => {
+                tooltip.addEventListener('click', function(e) {
+                    // Toggle active class for mobile
+                    this.classList.toggle('active');
+                    e.stopPropagation();
+                });
+            });
+            
+            // Lukk tooltip ved klikk utenfor
+            document.addEventListener('click', function() {
+                tooltips.forEach(tooltip => {
+                    tooltip.classList.remove('active');
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+    <div class="container">
+        <table>
+            <!-- Rad 1: Tittel -->
+            <tr class="title-row">
+                <td colspan="2">ÅRSPLAN 2025/2026</td>
+                <td colspan="54"></td>
+            </tr>
+
+            <!-- Rad 2: Tom rad -->
+            <tr>
+                <td class="col-a"></td>
+                <td class="col-b">Periode</td>
+                <td colspan="54"></td>
+            </tr>
+
+            <!-- Rad 3: Perioder -->
+            <tr class="period-row">
+                <td></td>
+                <td>Periode</td>
+                <td colspan="3" class="period-avkobling">Avkobling</td>
+                <td colspan="4" class="period-tilvending">Tilvending</td>
+                <td colspan="17" class="period-ressurs">Ressursperiode</td>
+                <td colspan="9" class="period-konkurranseforberedende">Konkurranseforberedende</td>
+                <td colspan="21" class="period-konkurranseperiode">Konkurranseperiode</td>
+            </tr>
+
+            <!-- Rad 4: Måneder -->
+            <tr class="month-row">
+                <td></td>
+                <td></td>
+                <td colspan="4" class="month-cell">OKT 2025</td>
+                <td colspan="4" class="month-cell">NOV 2025</td>
+                <td colspan="5" class="month-cell">DES 2025</td>
+                <td colspan="4" class="month-cell">JAN 2026</td>
+                <td colspan="4" class="month-cell">FEB 2026</td>
+                <td colspan="4" class="month-cell">MAR 2026</td>
+                <td colspan="5" class="month-cell">APR 2026</td>
+                <td colspan="4" class="month-cell">MAI 2026</td>
+                <td colspan="5" class="month-cell">JUN 2026</td>
+                <td colspan="5" class="month-cell">JUL 2026</td>
+                <td colspan="5" class="month-cell">AUG 2026</td>
+                <td colspan="4" class="month-cell">SEP 2026</td>
+                <td colspan="2" class="month-cell">OKT 2026</td>
+            </tr>
+
+            <!-- Rad 5: Datoer -->
+            <tr>
+                <td></td>
+                <td style="font-size: 7px; text-align: right;">Dato</td>
+                <td class="col-week">06.okt - 12.okt</td>
+                <td class="col-week">13.okt - 19.okt</td>
+                <td class="col-week">20.okt - 26.okt</td>
+                <td class="col-week">27.okt - 02.nov</td>
+                <td class="col-week">03.nov - 09.nov</td>
+                <td class="col-week">10.nov - 16.nov</td>
+                <td class="col-week">17.nov - 23.nov</td>
+                <td class="col-week">24.nov - 30.nov</td>
+                <td class="col-week">01.des - 07.des</td>
+                <td class="col-week">08.des - 14.des</td>
+                <td class="col-week">15.des - 21.des</td>
+                <td class="col-week">22.des - 28.des</td>
+                <td class="col-week">29.des - 04.jan</td>
+                <td class="col-week">05.jan - 11.jan</td>
+                <td class="col-week">12.jan - 18.jan</td>
+                <td class="col-week">19.jan - 25.jan</td>
+                <td class="col-week">26.jan - 01.feb</td>
+                <td class="col-week">02.feb - 08.feb</td>
+                <td class="col-week">09.feb - 15.feb</td>
+                <td class="col-week">16.feb - 22.feb</td>
+                <td class="col-week">23.feb - 01.mar</td>
+                <td class="col-week">02.mar - 08.mar</td>
+                <td class="col-week">09.mar - 15.mar</td>
+                <td class="col-week">16.mar - 22.mar</td>
+                <td class="col-week">23.mar - 29.mar</td>
+                <td class="col-week">30.mar - 05.apr</td>
+                <td class="col-week">06.apr - 12.apr</td>
+                <td class="col-week">13.apr - 19.apr</td>
+                <td class="col-week">20.apr - 26.apr</td>
+                <td class="col-week">27.apr - 03.mai</td>
+                <td class="col-week">04.mai - 10.mai</td>
+                <td class="col-week">11.mai - 17.mai</td>
+                <td class="col-week">18.mai - 24.mai</td>
+                <td class="col-week">25.mai - 31.mai</td>
+                <td class="col-week">01.jun - 07.jun</td>
+                <td class="col-week">08.jun - 14.jun</td>
+                <td class="col-week">15.jun - 21.jun</td>
+                <td class="col-week">22.jun - 28.jun</td>
+                <td class="col-week">29.jun - 05.jul</td>
+                <td class="col-week">06.jul - 12.jul</td>
+                <td class="col-week">13.jul - 19.jul</td>
+                <td class="col-week">20.jul - 26.jul</td>
+                <td class="col-week">27.jul - 02.aug</td>
+                <td class="col-week">03.aug - 09.aug</td>
+                <td class="col-week">10.aug - 16.aug</td>
+                <td class="col-week">17.aug - 23.aug</td>
+                <td class="col-week">24.aug - 30.aug</td>
+                <td class="col-week">31.aug - 06.sep</td>
+                <td class="col-week">07.sep - 13.sep</td>
+                <td class="col-week">14.sep - 20.sep</td>
+                <td class="col-week">21.sep - 27.sep</td>
+                <td class="col-week">28.sep - 04.okt</td>
+                <td class="col-week">05.okt - 11.okt</td>
+                <td class="col-week">12.okt - 18.okt</td>
+            </tr>
+
+            <!-- Rad 6: Tom rad -->
+            <tr>
+                <td colspan="56" style="height: 10px;"></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label">KLUBB/NR</td>
+                <td class="activity-label">Nasjonal</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip"><a href="https://example.com/resultater/nme" class="activity-link" target="_blank">NMe</a><span class="tooltiptext">NM ergometerroing</span></span></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">NOe<span class="tooltiptext">Norgesmesterskap ergometer</span></span></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">DRC<span class="tooltiptext">Danish Rowing Championship</span></span></td>
+                <td class="activity-cell"><span class="tooltip">SM<span class="tooltiptext">Svensk Mesterskap</span></span></td>
+                <td class="activity-cell"><span class="tooltip">Øst<span class="tooltiptext">Østlandsmesterskap</span></span></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">Sto<span class="tooltiptext">Stockholm regatta</span></span></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">Åru<span class="tooltiptext">Årungen</span></span></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">CR<span class="tooltiptext">Copenhagen Rowing</span></span></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">Tun<span class="tooltiptext">Tuneregatta</span></span></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">Kjø<span class="tooltiptext">Kjølvannsregatta</span></span></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">NM<span class="tooltiptext">Norgesmesterskap</span></span></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label">NR</td>
+                <td class="activity-label">Representasjons</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">JEM<span class="tooltiptext">Junior Europamesterskap</span></span></td>
+                <td class="activity-cell"><span class="tooltip">WC1<span class="tooltiptext">World Cup 1</span></span></td>
+                <td></td>
+                <td class="activity-cell">No/WC2</td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">WC3<span class="tooltiptext">World Cup 3</span></span></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell">CdJ/U23</td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">JVM<span class="tooltiptext">Junior Verdensmesterskap</span></span></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">U23 EM<span class="tooltiptext">U23 Europamesterskap</span></span></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell-pink"><span class="tooltip">BC<span class="tooltiptext">Baltic Cup</span></span></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label">KLUBB/NR</td>
+                <td class="activity-label">Utenlandsk</td>
+                <td></td>
+                <td class="activity-cell-gray"><span class="tooltip">HoC<span class="tooltiptext">Head of the Charles</span></span></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">R?<span class="tooltiptext">Regatta (uspesifisert)</span></span></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell">HB/HWR</td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">HRR<span class="tooltiptext">Henley Royal Regatta</span></span></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell-pink"><span class="tooltip">HoC<span class="tooltiptext">Head of the Charles</span></span></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label">NR</td>
+                <td class="activity-label">Testløp / rangeringsløp vann</td>
+                <td class="activity-cell-gray"><span class="tooltip">TLV1<span class="tooltiptext">Testløp på vann/rangering 1</span></span></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell-yellow">U19/JEM</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell-yellow">U19/JEM</td>
+                <td></td>
+                <td class="activity-cell-yellow">Nordisk</td>
+                <td></td>
+                <td class="activity-cell-yellow">Lagbåt/fritt</td>
+                <td></td>
+                <td class="activity-cell-yellow"><span class="tooltip">U23<span class="tooltiptext">Under 23 år</span></span></td>
+                <td class="activity-cell-yellow"><span class="tooltip">U19<span class="tooltiptext">Under 19 år</span></span></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell-yellow">Baltic</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label">NR</td>
+                <td class="activity-label">Testløp / rangering romaskin</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><a href="https://forms.gle/example1" class="activity-link" target="_blank">Testperiode 1</a></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><a href="https://forms.gle/example2" class="activity-link" target="_blank">Testperiode 2</a></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><a href="https://forms.gle/example3" class="activity-link" target="_blank">Testperiode 3</a></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+            <!-- Tom rad -->
+            <tr>
+                <td colspan="56" style="height: 10px;"></td>
+            </tr>
+
+            <!-- Tom rad -->
+            <tr>
+                <td colspan="56" style="height: 10px;"></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label">KLUBB</td>
+                <td class="activity-label">Samlinger</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label">NR</td>
+                <td class="activity-label">Samlinger / hospitering U23</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell-blue"><span class="tooltip">NR/Hosp<span class="tooltiptext">Nasjonal rekruttering / hospitering</span></span></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell-blue">NR/Hosp Utlandet</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell-blue">Påske i Norge</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell-blue">Mot CdJ/JVM</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label">NR</td>
+                <td class="activity-label">Samling U19 program</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">RjS<span class="tooltiptext">Rekruttering junior samling</span></span></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell-blue"><span class="tooltip">U19<span class="tooltiptext">Under 19 år</span></span></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label"></td>
+                <td class="activity-label">Frister</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">TP1<span class="tooltiptext">Testperiode 1</span></span></td>
+                <td></td>
+                <td class="activity-cell">S1 19.11</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip"><a href="https://example.com/resultater/nme" class="activity-link" target="_blank">NMe</a><span class="tooltiptext">NM ergometerroing</span></span></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">TP2<span class="tooltiptext">Testperiode 2</span></span></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">TP3<span class="tooltiptext">Testperiode 3</span></span></td>
+                <td></td>
+                <td class="activity-cell">1.4 Melde for representasjon</td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">DRC<span class="tooltiptext">Danish Rowing Championship</span></span></td>
+                <td class="activity-cell"><span class="tooltip">HoC<span class="tooltiptext">Head of the Charles</span></span></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label"></td>
+                <td class="activity-label"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell">Klubb</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label"></td>
+                <td class="activity-label"></td>
+                <td class="activity-cell"><span class="tooltip">TLV1<span class="tooltiptext">Testløp på vann/rangering 1</span></span></td>
+                <td></td>
+                <td class="activity-cell">Hvert annet år Vest/Øst fra høst 2026</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label"></td>
+                <td class="activity-label"></td>
+                <td class="activity-cell"><span class="tooltip">TPn<span class="tooltiptext">Testperiode n (1, 2 eller 3)</span></span></td>
+                <td></td>
+                <td class="activity-cell">Testperiode n = 1,2,3</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+            <!-- Tom rad -->
+            <tr>
+                <td colspan="56" style="height: 10px;"></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label"></td>
+                <td class="activity-label">U19/U23</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label">KLUBB</td>
+                <td class="activity-label">NASJONALT</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><a href="https://forms.gle/example1" class="activity-link" target="_blank">Testperiode 1</a></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><a href="https://forms.gle/example2" class="activity-link" target="_blank">Testperiode 2</a></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><a href="https://forms.gle/example3" class="activity-link" target="_blank">Testperiode 3</a></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">DRC<span class="tooltiptext">Danish Rowing Championship</span></span></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">Øst<span class="tooltiptext">Østlandsmesterskap</span></span></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">Sto<span class="tooltiptext">Stockholm regatta</span></span></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">Åru<span class="tooltiptext">Årungen</span></span></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">CR<span class="tooltiptext">Copenhagen Rowing</span></span></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">Tun<span class="tooltiptext">Tuneregatta</span></span></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">Kjø<span class="tooltiptext">Kjølvannsregatta</span></span></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">NM<span class="tooltiptext">Norgesmesterskap</span></span></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+            <!-- Tom rad -->
+            <tr>
+                <td colspan="56" style="height: 10px;"></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label">KLUBB/NR</td>
+                <td class="activity-label">U19 NORDISK</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><a href="https://forms.gle/example1" class="activity-link" target="_blank">Testperiode 1</a></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><a href="https://forms.gle/example2" class="activity-link" target="_blank">Testperiode 2</a></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><a href="https://forms.gle/example3" class="activity-link" target="_blank">Testperiode 3</a></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">DRC<span class="tooltiptext">Danish Rowing Championship</span></span></td>
+                <td></td>
+                <td class="activity-cell"><span class="tooltip">Øst<span class="tooltiptext">Østlandsmesterskap</span></span></td>
+                <td></td>
+                <td class="activity-cell-yellow"><span class="tooltip">Sto<span class="tooltiptext">Stockholm regatta</span></span></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell-purple"><span class="tooltip">No<span class="tooltiptext">Nordisk mesterskap</span></span></td>
+                <td class="activity-cell">--> eventuelt fortsetter med rangering/testløp mot  CdJ/JVM </td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label"></td>
+                <td class="activity-label"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell">Uttak Nordisk</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label">KLUBB/NR</td>
+                <td class="activity-label">U19 NORDISK, CdJ/JVM</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell-yellow"><span class="tooltip">CR<span class="tooltiptext">Copenhagen Rowing</span></span></td>
+                <td class="activity-cell-yellow"><span class="tooltip">U19<span class="tooltiptext">Under 19 år</span></span></td>
+                <td></td>
+                <td class="activity-cell-blue">Mot CdJ/JVM (uttatte lag)</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label"></td>
+                <td class="activity-label"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell">rangering</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label">KLUBB/NR</td>
+                <td class="activity-label">U18 BALTIC CUP</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><a href="https://forms.gle/example1" class="activity-link" target="_blank">Testperiode 1</a></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><a href="https://forms.gle/example2" class="activity-link" target="_blank">Testperiode 2</a></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"><a href="https://forms.gle/example3" class="activity-link" target="_blank">Testperiode 3</a></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label"></td>
+                <td class="activity-label"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell"> </td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+            <tr>
+                <td class="activity-label">KLUBB/NR</td>
+                <td class="activity-label">U23</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell">Testperiode (alle testperioder aller innsendte 2k/5k/6k resultater fra utlandet) --------></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell">U23 vurdering</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="activity-cell">Uttak?</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td colspan="12" class="activity-cell">U23 VM</td>
+                <td></td>
+            </tr>
+
+        </table>
+    </div>
+</body>
+</html>

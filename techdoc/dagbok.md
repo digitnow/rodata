@@ -12,3 +12,18 @@
   - prøv å ha kantlinjer på radene til å være like lange på den høyre enden av planen (det ser ut at de ikke er alignet i den forrige versjonen)
   - behold alle fargene, slik som de er i Excel-arket
 - Integrer med React-applikasjonen – Konverter HTML-tabellen til en React-komponent og integrer med eksisterende roingprogram-app for dynamisk datahåndtering.
+
+Alle oppgavene ble gjennomført.
+
+## 2025-11-28
+
+- Implementer søk- og filterfunksjonalitet i årsplanen – Legg til mulighet for å filtrere aktiviteter basert på kategori (KLUBB/NR, NR, KLUBB) eller type (Nasjonal, Representasjons, Testløp) for raskere navigasjon.
+- Utvid med brukerautentisering – Implementer pålogging slik at forskjellige brukere (trenere, utøvere) kan ha egne tilpassede treningsprogrammer og kun se relevante aktiviteter.
+- Legg til notifikasjonssystem – Implementer varsler for kommende konkurranser, tester og samlinger basert på datoer i årsplanen, med mulighet for e-post eller push-varsler.
+- Implementer søk- og filterfunksjonalitet i årsplanen for å filtrere aktiveter basert på kategori eller type
+- Legg til en funksjon for å markere fullførte aktiviteter og visuelt skille dem fra kommende hendelser i kalenderen
+- Utvid admin-panelet med muligheten til å legge ved filer eller notater til hver aktivitet i årsplanen
+- Legg til en funksjon for å velge prioritet for en økt (3 prioritetsnivåer, - lav prioritet, middels prioritet, nøkkeøkt / høy prioritet) OK
+- Legg til mulighet til å strekke en aktivitet over flere kolonner / uker, for eksempel "Testperiode 1" varer fra uke #44 til uke #46; legg inn mulighet til å endre dette i administrasjonsgrensesnittet for oppdatering av aktiviteter ("Rediger aktivitet") OK
+- Endre ukenummer til det reelle nummeret for sesongen (f.eks. ikke løpende #1 men reell #41) i administrasjonsgrensesnittet for oppdatering av aktiviteter ("Rediger aktivitet") OK
+
